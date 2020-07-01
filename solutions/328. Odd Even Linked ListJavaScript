@@ -1,0 +1,33 @@
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
+var oddEvenList = function(head) {
+    let arr=(head!=null)?getList(head):null;
+    let next=(head!=null)&&(head.next!=null)?getList(head.next):null;  
+    let res=(arr==null)?new ListNode():arr;
+    
+    while (res.next!=null){
+           res=res.next;
+           }
+    res.next=next;
+    return arr;
+};
+
+let getList=(head)=>{
+    if (head==null){
+        return null;
+    } else {
+        let result=new ListNode();
+        result.val=head.val;
+        result.next=head.next!=null?getList(head.next.next):null;
+        return result;
+    }
+}
