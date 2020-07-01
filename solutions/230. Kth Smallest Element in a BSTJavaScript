@@ -1,0 +1,61 @@
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @param {number} k
+ * @return {number}
+ */
+var kthSmallest = function(root, k) {
+     let arr=[];
+    arr.push((root!=null)?SearchItem(root):null);
+    arr=userFlat(arr);
+    let result=arr[0]!=null?getSmallThanK(arr,k):arr;
+
+   return result!=null?result[k-1]['val']:null;
+};
+
+let getSmallThanK=(arr,k)=>{
+    let result=arr;
+    if (arr.length>1){
+        arr.sort(sortVal);
+        }
+   
+  return result;
+}
+let sortVal=(a,b)=>{
+    return a.val-b.val;
+}
+
+
+let SearchItem=(root,size=0)=>{
+
+    let isNullLeft=(root.left==null);
+    let isNullRight=(root.right==null);
+    
+    let isNull=isNullLeft&&isNullRight;
+    
+    if (isNull){
+        return {'size':size,'val':root.val};
+    } else {
+         let result=[];  
+        result.push({'size':size,'val':root.val});
+        if (!isNullLeft){
+            result.push(SearchItem(root.left,size+1));
+        }
+        if (!isNullRight){
+            result.push(SearchItem(root.right,size+1));
+        }
+        return userFlat(result); 
+        
+    }
+}
+
+var userFlat=(arr)=>{
+    return arr.reduce((acc, val) => acc.concat(val), []);
+}
