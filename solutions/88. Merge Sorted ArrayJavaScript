@@ -1,0 +1,33 @@
+/**
+ * @param {number[]} nums1
+ * @param {number} m
+ * @param {number[]} nums2
+ * @param {number} n
+ * @return {void} Do not return anything, modify nums1 in-place instead.
+ */
+var merge = function(nums1, m, nums2, n) {
+    let n1=nums1.slice().slice(0,m);
+    let n2=nums2.slice().slice(0,n); 
+    
+    let l1=n1.length;
+    let l2=n2.length;   
+    
+    let ValidLength=l1+l2; 
+    let numsLength=nums1.length;
+    
+    let n_=n1.concat(n2).sort((a, b)=>{  return a - b;});
+    
+    let index=0;
+    
+    while (index<numsLength){
+        let result=nums1[index];
+           
+        if (index<ValidLength){
+                 nums1[index]=n_[index];
+        }
+        
+        index++;
+    }
+           
+    
+};
