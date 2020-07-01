@@ -8,6 +8,7 @@
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20ListJavaScript)|60 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./solutions/21.%20Merge%20Two%20Sorted%20ListsJavaScript)|76 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20ArrayJavaScript)|88 ms|
+|33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./solutions/33.%20Search%20in%20Rotated%20Sorted%20ArrayJavaScript)|72 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./solutions/36.%20Valid%20SudokuJavaScript)|296 ms|
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./solutions/38.%20Count%20and%20SayJavaScript)|76 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./solutions/48.%20Rotate%20ImageJavaScript)|56 ms|
