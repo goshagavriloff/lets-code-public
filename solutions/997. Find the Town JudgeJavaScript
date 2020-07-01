@@ -1,0 +1,55 @@
+/**
+ * @param {number} N
+ * @param {number[][]} trust
+ * @return {number}
+ */
+var findJudge = function(N, trust) {
+    let arr=trust.sort(sortJudge).filter(filterJudge);
+    let clients=arr
+                .map((el)=>{return el[0];})                
+                .sort((a,b)=>{return a-b})
+                ;
+    let server=arr
+                .map((el)=>{return el[1];})
+                .sort((a,b)=>{return a-b})
+                ;    
+
+   let unique_clients=new Set(clients);
+   let unique_server=new Set(server);
+     
+    for (let item of unique_server) {
+        if (unique_clients.has(item)){
+            unique_server.delete(item);
+            }
+        
+    };
+
+    let isValid=(unique_server.size==1);
+    let state=-1;
+    
+    
+    
+    if (isValid){
+        let arr_server=Array.from(unique_server);
+       arr_server.push(N);
+        let has_client=Array.from(unique_clients)
+                            .reduce((acc,current)=>{
+                                let s=arr.findIndex((el)=>{
+                                    
+                                    return (el[0]==current)&&(el[1]==arr_server[0]);
+                                });
+                                
+                                return acc&&(s!=-1);
+                            },true);
+        state=(has_client)?arr_server[0]:-1;
+    }
+return ((N==1)&&(trust[0]==null))?1:state;
+};
+
+let sortJudge=(a,b)=>{
+    return a[1] - b[1];
+}
+
+let filterJudge=(el)=>{
+    return el[0]!=el[1];
+}
