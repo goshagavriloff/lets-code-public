@@ -1,0 +1,95 @@
+/**
+ * Definition for a binary tree node.
+ * function TreeNode(val, left, right) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.left = (left===undefined ? null : left)
+ *     this.right = (right===undefined ? null : right)
+ * }
+ */
+/**
+ * @param {TreeNode} root
+ * @param {number} x
+ * @param {number} y
+ * @return {boolean}
+ */
+var isCousins = function(root, x, y) {
+       
+    let arr=SearchItem(root);
+  
+    let current_val=arr.map(function(e) { return (e==null)?null:e.val; });
+    let current_parent=arr.map(function(e) { return (e==null)?null:e.parent; });
+    let current_size=arr.map(function(e) { return (e==null)?null:e.size; });
+    
+    let posX=current_val.indexOf(x);
+    let posY=current_val.indexOf(y);
+    
+    let sizeX=(posX!=null)?current_size[posX]:null;
+    let sizeY=(posY!=null)?current_size[posY]:null;
+   
+    let parentX=(posX!=null)?current_parent[posX]:null;
+    let parentY=(posY!=null)?current_parent[posY]:null;
+    
+    let validXY=(parentX!=null)&&(parentY!=null)&&(sizeX!=null)&&(sizeY!=null);
+    
+    let validCousins=(sizeX==sizeY)&&(parentX!=parentY);
+    
+    return validXY&&validCousins;
+
+};
+
+let SearchItem=(root,size=0)=>{
+
+    let isNullLeft=(root.left==null);
+    let isNullRight=(root.right==null);
+    
+    let isNull=isNullLeft&&isNullRight;
+    
+    if (isNull){
+        return null;
+    } else {
+         let result=[];   
+        if (!isNullLeft){
+            result.push(getChild(root.left,size+1));
+        }
+        if (!isNullRight){
+            result.push(getChild(root.right,size+1));
+        }
+        if (!isNullLeft){
+            result.push(SearchItem(root.left,size+1));
+        }
+        if (!isNullRight){
+            result.push(SearchItem(root.right,size+1));
+        }
+        return userFlat(result); 
+        
+    }
+}
+
+
+let getChild=(root,size)=>{
+
+    let isNullLeft=(root.left==null);
+    let isNullRight=(root.right==null);
+    
+    let isNull=isNullLeft&&isNullRight;
+    
+    if (isNull){
+        return null;
+    } else {
+         let result=[];   
+        if (!isNullLeft){
+            result.push({'size':size,'val':root.left.val,'parent':root.val});
+        }
+        if (!isNullRight){
+            result.push({'size':size,'val':root.right.val,'parent':root.val});
+        }
+        return userFlat(result); 
+        
+    }
+}
+
+
+
+var userFlat=(arr)=>{
+    return arr.reduce((acc, val) => acc.concat(val), []);
+}
