@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20SumJavaScript)|216 ms|
+|7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./solutions/7.%20Reverse%20IntegerJavaScript)|76 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./solutions/13.%20Roman%20to%20IntegerJavaScript)|200 ms|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./solutions/14.%20Longest%20Common%20PrefixJavaScript)|96 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20ListJavaScript)|60 ms|
