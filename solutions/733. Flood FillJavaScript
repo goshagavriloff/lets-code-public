@@ -1,0 +1,108 @@
+/**
+ * @param {number[][]} image
+ * @param {number} sr
+ * @param {number} sc
+ * @param {number} newColor
+ * @return {number[][]}
+ */
+var floodFill = function(image, sr, sc, newColor) {
+    let map=getMap(image);
+    let isExist=map.has(sr+','+sc);
+    let oldColor=(isExist)?map.get(sr+','+sc):null;
+    let keys=new Set(getKeys(map, sr,sc,oldColor,newColor));
+
+    Array.from(keys).forEach((el)=>{
+        let str=el.split(',');
+        let x=str[0];
+        let y=str[1];
+        
+        let isValid=(x!=null)&&(y!=null);
+        
+        if (isValid){
+            image[x][y]=newColor;
+            }
+        
+    });
+    return image;
+};
+let getMap=(arr)=>{
+    //[[1,1,1],[1,1,0],[1,0,1]]
+    let result=new Map();
+    arr.forEach((el,x)=>{
+        let y=0;
+        for (let val of el) {
+            result.set(x+','+y,val);
+            y++;
+        }
+    });
+    return result;
+}
+
+let getKeys=(image, x,y,oldColor,newColor,result=[])=>{
+    let isExist=image.has(x+','+y);
+    let val=!isExist?null:image.get(x+','+y);
+
+     
+    if (!isExist||(val!=oldColor)){
+        return [];
+    }else{
+
+        
+         result.push(x+','+y);
+        let default_=setDefault(x,y);
+        let state={
+                    'default':setDefault(x,y),
+                    'top':{'x':x,'y':y+1},
+                    'left':{'x':x-1,'y':y},
+                    'right':{'x':x+1,'y':y},
+                    'bottom':{'x':x,'y':y-1},
+                  };
+        let status={
+            'isLeft':{'state':image.has(state.left.x+','+state.left.y),
+                      'val':image.get(state.left.x+','+state.left.y)},
+            'isRight':{'state':image.has(state.right.x+','+state.right.y),
+                       'val':image.get(state.right.x+','+state.right.y)},
+            'isBottom':{'state':image.has(state.bottom.x+','+state.bottom.y),
+                        'val':image.get(state.bottom.x+','+state.bottom.y)},
+            'isTop':{'state':image.has(state.top.x+','+state.top.y),
+                     'val':image.get(state.top.x+','+state.top.y)},
+        };
+
+        if (status.isLeft.state&&(!result.includes(state.left.x+','+state.left.y))){
+
+            
+            result.push(getKeys(image, x-1,y,oldColor,newColor,userFlat(result)));
+        }
+
+        if (status.isRight.state&&(!result.includes(state.right.x+','+state.right.y))){
+            
+             result.push(getKeys(image, x+1,y,oldColor,newColor,userFlat(result)));
+        }
+        if (status.isBottom.state&&(!result.includes(state.bottom.x+','+state.bottom.y))){
+
+            
+           result.push(getKeys(image, x,y-1,oldColor,newColor,userFlat(result)));
+        }
+        if (status.isTop.state&&(!result.includes(state.top.x+','+state.top.y))){
+
+            
+            result.push(getKeys(image, x,y+1,oldColor,newColor,userFlat(result)));
+        }
+        
+         
+       
+        
+        
+        
+        return userFlat(result);
+    }
+    
+    
+}
+
+let setDefault=(x,y)=>{
+    return {'x':x,'y':y};
+}
+var userFlat=(arr)=>{
+    return arr.reduce((acc, val) => acc.concat(val), []);
+}
