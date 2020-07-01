@@ -1,0 +1,53 @@
+/**
+ * @param {string[]} strs
+ * @return {string}
+ */
+var longestCommonPrefix = function(strs) {
+    
+    let arr=strs.sort().reverse();
+        
+    let checkedStr=arr[0];
+    let result="";
+    let isNotNull=(checkedStr!=null)&&(!!checkedStr);
+    if (isNotNull){
+        result=getPrefix(checkedStr,arr);
+        }
+    
+    return result;
+   
+    
+    
+};
+let getPrefix=(str,arr)=>{
+    let checkedStr=str;
+    let status=getStatus(checkedStr,arr);
+    let res=checkedStr;
+    
+    while (!status){
+        
+        res=checkedStr;
+        status=getStatus(checkedStr,arr);       
+        checkedStr=checkedStr.substring(0, checkedStr.length - 1);
+
+    }
+    
+    return res;
+}
+let getStatus=(str,words)=>{
+    let res;
+    let concat = words.reduce(function(result, current) {
+        let status=false;
+        let reg= new RegExp('^'+str,'g');
+        let search=current.search(reg);         
+        let isValid=(search!=-1);   
+        
+            if (isValid){
+                status=true;
+            }
+        
+      return result.concat(status);
+    }, []);
+    let reducer = (accumulator, currentValue) => accumulator&&currentValue;
+    res=concat.reduce(reducer);
+    return res;
+}
