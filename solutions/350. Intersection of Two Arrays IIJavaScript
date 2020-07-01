@@ -1,0 +1,50 @@
+/**
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number[]}
+ */
+var intersect = function(nums1, nums2) {
+    let i=0;
+    let sub=[];
+    let k=0;
+   
+    while (i<nums1.length) {
+        let param=nums1[i];
+      //  
+        
+       // 
+                let check=nums2.indexOf(param);
+                if (check>-1) {
+                    let temp1=indexOfAll(nums1,param).length;    
+                    let temp2=indexOfAll(nums2,param).length; 
+                    
+                    let count=(temp1>temp2)?temp2:temp1;
+                    
+                    let check_sub=sub.indexOf(param);
+                    let temp3=indexOfAll(check_sub,param).length; 
+                    
+                    
+                    if (check_sub==-1) {
+                        let j=temp3;
+                        while (j<count){
+                            sub.push(nums1[i]);
+                            j++;
+                        }
+                        
+                    }
+                    
+                        
+                }                
+          //  }
+
+        i++;
+    }
+    return sub;
+};
+
+let indexOfAll = (arr, val) => {
+   let a= arr.filter((value)=>{
+         return value == val;
+    });
+    return a;
+}
