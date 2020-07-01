@@ -1,0 +1,68 @@
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} l1
+ * @param {ListNode} l2
+ * @return {ListNode}
+ */
+var mergeTwoLists = function(l1, l2) {
+    let _l1=getResult(l1);
+    let _l2=getResult(l2);
+    let _l_own=_l1.concat(_l2);
+    
+    _l_own=_l_own.map((el)=>{
+        return Number(el);
+    }).sort((a, b) => a - b);
+    
+    let result;
+    
+    let isNull=(_l_own[0]==null);
+    
+    if (!isNull){
+         result=new ListNode(_l_own[0]);
+            
+            let acc=result;
+            
+            let i=1;
+            
+            while (_l_own[i]!=null){
+                        acc['next']=new ListNode(_l_own[i]);
+                        acc=acc['next'];
+                    i++;
+            }
+        
+        }else{
+             
+        result=l1;
+            
+    }
+    return result;
+    
+    
+    
+    
+   
+   // return result;
+};
+
+
+let getResult=(head)=>{ 
+    let arr =JSON.stringify(head).trim().match(/(\d{1,})|(-\d{1,})/g);
+    let isNull=(arr==null);
+    let result;
+    
+    if(!isNull){
+       
+        result=arr;
+            
+        } else{
+            result=[];
+        }
+        return result;
+        
+       }
