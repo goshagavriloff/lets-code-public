@@ -1,0 +1,8 @@
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var isPowerOfTwo = function(n) {
+    let log2=Math.log2(n);
+    return log2-Math.floor(log2)==0;
+};
