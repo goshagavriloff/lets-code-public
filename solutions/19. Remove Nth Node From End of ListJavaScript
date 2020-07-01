@@ -1,0 +1,86 @@
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val) {
+ *     this.val = val;
+ *     this.next = null;
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @param {number} n
+ * @return {ListNode}
+ */
+var removeNthFromEnd = function(head, n) {
+
+    let result;
+    let arr=getResult(head,n);
+    let isNull=(arr[0]==null);
+    let isChosenOne=(arr[1]==null);
+    
+    
+    if (!isNull){
+            result=new ListNode(arr[0]);
+            
+            let acc=result;
+            
+            let i=1;
+            
+            while (arr[i]!=null){
+                        acc['next']=new ListNode(arr[i]);
+                        acc=acc['next'];
+                    i++;
+                   }
+            
+        
+        } 
+    if (isNull){
+        result=head.next;
+        
+        }
+    
+    
+   // console.log(result);
+    return result;
+    
+    
+   
+};
+
+let getResult=(head,n)=>{
+    let arr =JSON.stringify(head).trim().match(/\d{1,}/g);
+    let isNull=(arr==null);
+    let result;
+    
+    if(!isNull){
+       result=new ListNode(arr[0]);
+        let search=arr.length-n;
+        let isNegative=(search<0)
+        
+        if(!isNegative){
+            result=arr.filter((el,index)=>{
+                if (index!=search){
+                    return el;
+                }
+            });
+            
+            
+        } else{
+            arr.shift();
+            result=arr;
+        }
+        
+        
+       }
+    return result;
+    
+}
+
+let getArr=(head)=>{
+    var result = Object.values(head);
+    return result;
+    // var result = Object.keys(obj).map(function(key) {
+    //return [Number(key), obj[key]];
+    //});
+}
+
+
