@@ -1,0 +1,37 @@
+/**
+ * @param {string} ransomNote
+ * @param {string} magazine
+ * @return {boolean}
+ */
+var canConstruct = function(ransomNote, magazine) {
+            let status=true;
+       // let j='['+J.split('').join(',')+']';
+        let concat=ransomNote.split('').reduce((acc,curr)=>{
+            let reg= new RegExp(curr,'g');
+            let search=magazine.search(reg);  
+            let isValid=(search!=-1)&&(search!=null);  
+            let result=false;
+            if (isValid){
+             
+                magazine=magazine.split('');
+                magazine.splice(search, 1);
+                magazine=magazine.join('');
+                result=true;
+            }
+            return acc.concat(result);
+            
+        },[]);
+        
+     
+            var reducer = (accumulator, currentValue) => accumulator&&currentValue;
+    if (concat[0]!=null){
+        status=concat.reduce(reducer);  
+        } 
+    
+   // console.log(concat);    
+    
+    //    let    
+        
+        
+    return status;
+};
