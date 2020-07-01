@@ -1,0 +1,23 @@
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var frequencySort = function(s) {
+    let reg=/([\s\S])\1*/g;
+    let arr=s.split('');
+    
+    arr=((arr==null)||(arr[1]==null))?s:arr.sort().join('');   
+    arr=arr.match(reg);
+
+    let res=[];
+    
+    
+    if (arr!=null){
+        
+            res=arr[1]==null?arr:arr.sort((a,b)=>{
+                return b.length-a.length;
+            });    
+        }
+    
+    return res.join('');
+};
