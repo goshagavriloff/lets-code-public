@@ -35,6 +35,7 @@
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./solutions/278.%20First%20Bad%20VersionJavaScript)|44 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./solutions/283.%20Move%20ZeroesJavaScript)|56 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[JavaScript](./solutions/328.%20Odd%20Even%20Linked%20ListJavaScript)|68 ms|
+|344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./solutions/344.%20Reverse%20StringJavaScript)|104 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./solutions/350.%20Intersection%20of%20Two%20Arrays%20IIJavaScript)|88 ms|
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](./solutions/367.%20Valid%20Perfect%20SquareJavaScript)|52 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./solutions/383.%20Ransom%20NoteJavaScript)|2692 ms|
