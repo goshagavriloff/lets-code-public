@@ -1,0 +1,28 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var removeDuplicates = (nums,i=0)=> {
+
+    while (i<nums.length) {
+        let compore=comparator(nums,i);
+        if (compore) {
+         rec(nums,i);
+        } 
+        i++;
+    }
+
+};
+
+var comparator= (arr,i)=> {
+    let result = (arr[i]==arr[i+1]) ? true : false;
+    return result;
+}
+
+var rec=(nums,i)=>{
+
+    while (comparator(nums,i)){
+        nums.splice(i,1);
+
+    }
+}
