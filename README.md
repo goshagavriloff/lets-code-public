@@ -19,6 +19,7 @@
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./solutions/350.%20Intersection%20of%20Two%20Arrays%20IIJavaScript)|88 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./solutions/383.%20Ransom%20NoteJavaScript)|2692 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./solutions/387.%20First%20Unique%20Character%20in%20a%20StringJavaScript)|216 ms|
+|392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./solutions/392.%20Is%20SubsequenceJavaScript)|68 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](./solutions/451.%20Sort%20Characters%20By%20FrequencyJavaScript)|104 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
