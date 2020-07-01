@@ -5,6 +5,7 @@
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20SumJavaScript)|216 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./solutions/13.%20Roman%20to%20IntegerJavaScript)|200 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./solutions/21.%20Merge%20Two%20Sorted%20ListsJavaScript)|76 ms|
+|26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20ArrayJavaScript)|88 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./solutions/36.%20Valid%20SudokuJavaScript)|296 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./solutions/48.%20Rotate%20ImageJavaScript)|56 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20AnagramsJavaScript)|116 ms|
