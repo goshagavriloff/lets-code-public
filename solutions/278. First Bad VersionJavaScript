@@ -1,0 +1,101 @@
+/**
+ * Definition for isBadVersion()
+ * 
+ * @param {integer} version number
+ * @return {boolean} whether the version is bad
+ * isBadVersion = function(version) {
+ *     ...
+ * };
+ */
+
+/**
+ * @param {function} isBadVersion()
+ * @return {function}
+ */
+var solution = function(isBadVersion) {
+    /**
+     * @param {integer} n Total versions
+     * @return {integer} The first bad version
+     */
+    return function(n) {
+        let result=n;
+        let prev=null;
+        while (isBadVersion(n)){
+            prev=n;
+            n=Math.floor(n/2);
+        }
+        
+        let arr=getArr(n,prev,isBadVersion); 
+        let raz=arr['2']['raz'];
+
+        
+        while(raz>1){
+
+            let state0=arr['0']['result'];
+            let state1=arr['1']['result'];
+              if (state0){
+                    n=arr['0']['left']['value'];
+                    prev=arr['0']['right']['value'];
+                    arr=getArr(n,prev,isBadVersion);
+                    raz=arr['2']['raz'];
+                }
+              if (state1){
+                    n=arr['1']['left']['value'];
+                    prev=arr['1']['right']['value'];
+                    arr=getArr(n,prev,isBadVersion);
+                    raz=arr['2']['raz'];
+                }
+           
+        }
+        
+        return getCheck(prev,arr);
+    };
+};
+
+
+let getCheck=(prev,arr)=>{
+      
+       let result=prev;
+    let l1=arr['0']['right']['value'];
+    let l2=arr['1']['left']['value'];
+    let l1_state=arr['0']['right']['status'];
+    let l2_state=arr['1']['left']['status'];    
+    
+    let isEqual=(l1==l2);
+    let isTrue=(l1_state&&l2_state);
+    
+    if (isEqual&&isTrue){
+        result=l1;
+        }
+    return result;
+    
+}
+
+let getArr=(n,prev,isBadVersion)=>{
+    let r=prev-n;
+        r=Math.floor(r/2);   
+        return {0:{
+                    "left":{
+                            "value":n,
+                            "status":isBadVersion(n)},
+                    "right":{
+                            "value":prev-r,
+                            "status":isBadVersion(prev-r)},
+                    "result":!isBadVersion(n) && isBadVersion(prev-r),
+                    
+                    },
+                1:{
+                    "left":{
+                            "value":n+r,
+                            "status":isBadVersion(n+r)},
+                    "right":{
+                            "value":prev,
+                            "status":isBadVersion(prev)},
+                    "result":!isBadVersion(n+r) && isBadVersion(prev),
+                   
+                },
+                2:{
+                     "raz":prev-n-r,
+                }
+               };
+}
