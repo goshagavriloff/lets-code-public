@@ -7,6 +7,7 @@
 |230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BSTJavaScript)|192 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20ListJavaScript)|80 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./solutions/242.%20Valid%20AnagramJavaScript)|104 ms|
+|283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./solutions/283.%20Move%20ZeroesJavaScript)|56 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](./solutions/451.%20Sort%20Characters%20By%20FrequencyJavaScript)|104 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
