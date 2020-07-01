@@ -1,0 +1,8 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var countSegments = function(s) {
+    let res=s.match(/\S+/g);
+    return res==null?0:res.length;
+};
