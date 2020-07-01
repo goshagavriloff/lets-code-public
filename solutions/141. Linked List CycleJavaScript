@@ -1,0 +1,38 @@
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val) {
+ *     this.val = val;
+ *     this.next = null;
+ * }
+ */
+
+/**
+ * @param {ListNode} head
+ * @return {boolean}
+ */
+var hasCycle = function(head) {
+   let status=false;
+    
+      try {
+        let map = new Map(Object.entries(head));;
+        let arr2 =JSON.stringify(map.get('next'));
+
+} catch (err) {
+
+        
+        let Err_Message=err.message.toLowerCase();
+        let Next_is_Circular=(Err_Message=='converting circular structure to json');
+        status=Next_is_Circular?true:false;
+}
+    return status;
+    
+};
+let analizeJSON=(str)=>{
+    let Next_is_Null=(str.search(/next: null/g)==-1);
+    
+    
+    
+    while (isNull) {
+           
+           }
+}
