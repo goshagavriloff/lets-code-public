@@ -1,0 +1,18 @@
+/**
+ * @param {string} J
+ * @param {string} S
+ * @return {number}
+ */
+var numJewelsInStones = function(J, S) {
+        let status=0;
+        let j='['+J.split('').join(',')+']';
+        let reg= new RegExp(j,'g');
+     
+        let search=S.match(reg);         
+        let isValid=(search!=-1)&&(search!=null);   
+        
+            if (isValid){
+                status=search.length;
+            }
+    return status;
+};
