@@ -1,0 +1,63 @@
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    for(let i = 0; i <= nums.length; i++){
+        for(let j = i+1; j <= nums.length; j++){
+            if(nums[i] + nums[j] == target){
+            return [i, j]
+         }
+        }
+    }
+};
+
+
+
+let oldres=(nums, target)=>{
+      let sub_nums;
+
+    sub_nums=_transform_to_keys(nums,target);   
+    sub_nums=_delete_udefined(sub_nums);
+    
+    var s;
+    let res=[];
+    
+    _check:
+        for (i = 0; i < nums.length; i++) {
+            
+          for (j = 1; j < nums.length; j++) {
+              if (i!=j) {
+                   s=nums[i]+nums[j];
+                   if (s==target){
+                        res.push(i);
+                        res.push(j);
+                       break _check;
+                        }
+                  }
+           
+            
+            }
+        
+    }
+   
+    return res;
+}
+var _transform_to_keys=(nums,target)=>{
+    let sub_nums=nums;
+    let result= nums.map((el,i)=>{
+       
+        if (el<=target) {
+           return i;
+           } 
+        
+    });
+    
+    return result;   
+};
+var _delete_udefined=(data)=>{
+    return data.filter(function( element ) {
+            return element !== undefined;
+        });
+};
