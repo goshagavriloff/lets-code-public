@@ -1,0 +1,38 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var firstUniqChar = function(s) {
+     
+    let arr = comparator(s);  
+    let number=arr.indexOf(false, 0);
+    return number;
+    
+    
+};
+
+var comparator= (arr)=> {
+ 
+let status=false;
+
+  var ks=[];
+  for(var value of arr){
+    ks[value] = (ks[value]||0)+1;
+  }
+    
+  var arr2 =[];
+    
+  for(var i in arr) {
+    if ((ks[ arr[i] ] > 1) ) {
+        
+       arr2.push(true);
+    }
+      else {
+         arr2.push(false);
+      }
+}
+
+    return arr2;
+}
+
+
