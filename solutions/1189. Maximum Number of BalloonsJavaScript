@@ -1,0 +1,28 @@
+/**
+ * @param {string} text
+ * @return {number}
+ */
+var maxNumberOfBalloons = function(text) {
+    let count_old=new Map(getCount('balloon'));
+    let count_new=new Map(getCount(text));
+
+  
+    let res=Array.from(count_new).map((el)=>{
+        let temp=count_old.get(el[0]);
+        let res=Math.floor(el[1]/temp);
+        return res;
+    });
+    return res.sort(useSort)[0];
+    //return res==null?0:res.length;
+};
+let useSort=(a,b)=>{return Number(a)-Number(b);}
+let getCount=(text,param='balloon')=>{
+    let sets=new Set(param.split(''));
+    let result=Array.from(sets).map((el)=>{
+        
+        let temp_reg=new RegExp(el,'g');
+        let res=text.match(temp_reg);
+        return  res==null?[el,0]:[el,res.length];
+    });
+    return result;
+}
