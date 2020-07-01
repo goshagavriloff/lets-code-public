@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IIJavaScript)|60 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20TreeJavaScript)|68 ms|
 |230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BSTJavaScript)|192 ms|
