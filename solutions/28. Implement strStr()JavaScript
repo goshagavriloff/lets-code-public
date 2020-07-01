@@ -1,0 +1,12 @@
+/**
+ * @param {string} haystack
+ * @param {string} needle
+ * @return {number}
+ */
+var strStr = function(haystack, needle) {
+    let reg= new RegExp(needle,'g');
+    let result=haystack.search(reg);
+    
+    result=(needle=="")?0:result;
+    return result;
+};
