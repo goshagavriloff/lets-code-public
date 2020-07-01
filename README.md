@@ -46,6 +46,7 @@
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20FillJavaScript)|96 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20StonesJavaScript)|60 ms|
+|993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[JavaScript](./solutions/993.%20Cousins%20in%20Binary%20TreeJavaScript)|64 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[JavaScript](./solutions/997.%20Find%20the%20Town%20JudgeJavaScript)|476 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20AddressJavaScript)|56 ms|
 |1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[JavaScript](./solutions/1189.%20Maximum%20Number%20of%20BalloonsJavaScript)|68 ms|
