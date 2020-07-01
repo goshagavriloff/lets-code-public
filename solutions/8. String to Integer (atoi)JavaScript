@@ -1,0 +1,41 @@
+/**
+ * @param {string} str
+ * @return {number}
+ */
+var myAtoi = function(str) {
+    let arr =str.trim().match(/^(\-\d*)|(\+\d*)|^(\d*)/g);
+    if (arr==null){
+        arr=['0'];
+    }
+    
+    let check=Number(arr[0]);
+    let result=getNum(check);
+    
+    return result;
+    
+};
+
+
+let getNum=(num)=>{
+    let INT_MAX=2147483647;
+    let INT_MIN=-2147483648;
+    
+    let isPositive=(num>0);
+    let isNegative=(num<0);
+    
+    let isMoreMax=(num>INT_MAX);
+    let isLessMin=(num<INT_MIN);
+    
+    
+    
+    if (isPositive&&isMoreMax){
+        num=INT_MAX;
+    }
+    if (isNegative&&isLessMin){
+        num=INT_MIN;
+    }  
+    if (isNaN(num)){
+        num=0;
+        }
+    return num;
+}
