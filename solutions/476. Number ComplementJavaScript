@@ -1,0 +1,17 @@
+/**
+ * @param {number} num
+ * @return {number}
+ */
+var findComplement = function(num) {
+    let result=(num==null)||(num<0)?null:parseInt(ParseBit(num),2);
+    return result;
+};
+let ParseBit=(val)=>{
+    if (val<2){       
+        return (val==0)?1:0;
+        }else{
+        let temp=Math.trunc(val/2);
+        let ost=(val%2==0)?1:0;
+        return ParseBit(temp)+''+ost+'';
+    }
+}
