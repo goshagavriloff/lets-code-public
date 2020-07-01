@@ -6,6 +6,7 @@
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20AnagramsJavaScript)|116 ms|
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IIJavaScript)|60 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
+|217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20DuplicateJavaScript)|6948 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20TreeJavaScript)|68 ms|
 |230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BSTJavaScript)|192 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20ListJavaScript)|80 ms|
