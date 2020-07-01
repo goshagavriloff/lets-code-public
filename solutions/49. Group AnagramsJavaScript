@@ -1,0 +1,32 @@
+/**
+ * @param {string[]} strs
+ * @return {string[][]}
+ */
+var groupAnagrams = function(strs) {
+    
+    return getGroups(strs);
+    
+};
+let getGroups=(strs)=>{
+    let annagramMap=new Map();
+    let result=[];
+    
+    
+    strs.forEach((el,i)=>{
+        let key=el.split('').sort().join('');
+        let isValidVal=(annagramMap.get(key)!=undefined);
+        let val=isValidVal?annagramMap.get(key):[];
+       
+        annagramMap.set(key,val.concat(el));
+    });
+    
+    let mapIter = annagramMap.values();
+    let mapVal=mapIter.next();
+    while (mapVal.value!=undefined){
+        result.push(mapVal.value);
+        mapVal=mapIter.next();
+    }
+    
+    return result;
+    
+}
