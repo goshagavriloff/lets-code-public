@@ -1,0 +1,17 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var majorityElement = function(nums) {
+    var ks=new Map();
+    for(var value of nums){
+        ks[value] = (ks[value]||0)+1;
+        
+        }
+    
+  let values=Object.entries(ks).sort((a,b)=>{
+     return a[1]-b[1];   
+    }).reverse();
+  let result=values[0][0];
+    return result;
+};
