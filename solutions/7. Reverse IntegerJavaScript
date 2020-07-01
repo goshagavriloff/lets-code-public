@@ -1,0 +1,27 @@
+/**
+ * @param {number} x
+ * @return {number}
+ */
+var reverse = function(x) {
+    let k=(x <0) ? -1 : 1;
+    let mod_x=Math.abs(x);
+    
+    let str_x=mod_x.toString();
+    
+    let arr_x=Array.from(str_x);
+    
+    let length_x=arr_x.length;
+    
+    let res=0;
+    
+    arr_x.forEach((el,index)=>{
+        res+=Number(el)*Math.pow(10, index);
+    });
+    
+    let c=Math.pow(2, 31);
+    let check_p=(res>(c-1));
+    let check_n=(res<(-c));
+    res=(check_p||check_n)?0:res*k;
+    
+    return res;
+};
