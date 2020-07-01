@@ -1,0 +1,24 @@
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var romanToInt = function(s) {
+    let arr=s.split('').map(getInt);
+    let result=arr.reduce((acc,val)=>{return acc+val;},0);
+    return result;
+};
+let getInt=(el,i,arr)=>{
+    let result=romans.get(el);
+    let next=arr[i+1]!=null?romans.get(arr[i+1]):null;
+    return (next!=null)?(next>result)?-result:result:result;
+    
+}
+const romans=new Map([
+    ['I',1],
+    ['V',5],
+    ['X',10],
+    ['L',50],
+    ['C',100],
+    ['D',500],
+    ['M',1000]
+]);
