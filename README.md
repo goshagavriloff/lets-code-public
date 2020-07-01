@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20TreeJavaScript)|68 ms|
 |230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BSTJavaScript)|192 ms|
 |237|[ Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./solutions/237.%20Delete%20Node%20in%20a%20Linked%20ListJavaScript)|80 ms|
