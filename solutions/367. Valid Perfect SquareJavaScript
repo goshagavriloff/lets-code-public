@@ -1,0 +1,16 @@
+/**
+ * @param {number} num
+ * @return {boolean}
+ */
+var isPerfectSquare = function(num) {
+   //Использую свойства квадрата
+    //https://zen.yandex.ru/media/math4u/kvadrat-chisla-interesnoe-svoistvo-5caa4dedaeacde00ae23531b
+    let S=1;
+    let d=1;
+    while (S<num){
+            d+=2;
+           S+=d;
+        
+    }
+    return (S==num);
+};
