@@ -1,0 +1,18 @@
+/**
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
+ */
+var sortColors = function(nums) {
+    
+    let countNull=0;
+    let countSecond=0;
+    
+    nums.forEach((el,i)=>{
+        if (el!=1){
+            nums.splice(i,1); 
+            countNull+=(el==0)?1:0;
+            countSecond+=(el==2)?1:0;
+        }
+    });
+
+};
