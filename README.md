@@ -12,6 +12,7 @@
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20ArrayJavaScript)|88 ms|
 |28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./solutions/28.%20Implement%20strStr()JavaScript)|56 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./solutions/33.%20Search%20in%20Rotated%20Sorted%20ArrayJavaScript)|72 ms|
+|35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./solutions/35.%20Search%20Insert%20PositionJavaScript)|64 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./solutions/36.%20Valid%20SudokuJavaScript)|296 ms|
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./solutions/38.%20Count%20and%20SayJavaScript)|76 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./solutions/48.%20Rotate%20ImageJavaScript)|56 ms|
