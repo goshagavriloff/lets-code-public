@@ -1,0 +1,11 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var singleNonDuplicate = function(nums) {
+    let arr=JSON.stringify(nums);
+    let replaced=arr.replace(/(\d+)[\,\]]\1/g, 'null');
+    let res=new Set(JSON.parse(replaced));
+    let result=Array.from(res).filter((el)=>{return el!=null;});
+    return result[0];
+};
