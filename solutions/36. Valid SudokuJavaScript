@@ -1,0 +1,124 @@
+var userFlat=(arr)=>{
+    return arr.reduce((acc, val) => acc.concat(val), []);
+}
+
+var isValidSudoku = function(board) {
+    
+    let state_vertical=isValidLine(board);
+    let board_change=rotate(board);
+    let state_horizontal=isValidLine(board_change);
+    let state_squre=isValidDiagonal(board); 
+    let res=state_vertical||state_horizontal||state_squre;
+    
+    return (!res);
+};
+
+
+
+var isValidLine=(words)=>{
+ var concat = words.reduce(function(result, current) {
+  
+  let status=false;
+     
+  if (findDuplicates(current)){
+    status=true;
+  }
+     
+  return result.concat(status);
+}, []);
+    
+ var reducer = (accumulator, currentValue) => accumulator||currentValue;
+ res=concat.reduce(reducer);
+ return res;w
+}
+
+
+
+
+var findDuplicates = (nums,i=0)=> {
+let status=false;
+
+   
+    while (i<nums.length) {
+        
+           let compore=comparator(nums,i);
+            if (compore) {
+            //return true
+            status=true;
+            }  
+        
+       
+        i++;
+    }
+return status;
+};
+
+var comparator= (arr,i)=> {
+ 
+let status=false;
+
+  var ks=[];
+  for(var value of arr){
+    ks[value] = (ks[value]||0)+1;
+  }
+  var arr2 =[];
+  for(var i in arr) {
+    if ( (arr[i]!='.')&&(ks[ arr[i] ] > 1) ) {
+       status=true;
+    }
+}
+  
+   
+    return status;
+}
+
+var rotate = function(matrix) {
+var concat=[];
+for (let i=0;i<matrix.length;i++){
+   concat.push(trasparent_i(matrix,i));
+  }
+  
+
+    return concat;
+};
+
+var trasparent_i=(matrix,i)=>{
+ var concat = matrix.reduce(function(result, current) {
+  let res;
+  res = result.concat(current[i]);
+  return res;
+}, []);
+return concat;
+}
+
+
+var trasparent_squre=(line)=>{
+let result=[];
+ 
+ for (let j=0;j<9;j=j+3){
+   var concats=[];
+    for (let i=j;i<j+3;i++){
+        concats.push(trasparent_i(line,i));
+  
+    }
+     
+     result.push(userFlat(concats));
+}
+
+  
+
+    return result;
+
+}
+
+var isValidDiagonal=(matrix)=>{
+    let size=matrix.length;
+    let concat=[];
+    for (let i=0;i<size;i=i+3){
+      let ex1=[matrix[i],matrix[i+1],matrix[i+2]];   
+      concat.push(trasparent_squre(ex1));
+    }
+    let result=isValidLine(userFlat(concat));
+    return result;
+    
+}
