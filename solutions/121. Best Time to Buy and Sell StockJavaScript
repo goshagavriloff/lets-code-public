@@ -1,0 +1,38 @@
+/**
+ * @param {number[]} prices
+ * @return {number}
+ */
+var maxProfit = function(prices) {
+   
+    let arr=(prices[1]==null)?null:rec_profit(prices);
+    let clone=[0];
+    let sum=0;
+    let prev=0;
+    let result=0;
+    let i=0;
+    while ((arr!=null)&&(arr[i]!=null)){
+       prev=result;
+        sum+=arr[i];
+        
+        if (sum<0){
+            sum=0;
+        } else{
+            result=(prev>sum)?prev:sum;
+            
+        }       
+        i++;
+    }
+return result;
+    //return clone.sort((a,b)=>{return a-b}).reverse()[0];
+};
+
+let rec_profit=(arr)=>{
+    let new_arr= arr.reduce((acc,curr,i)=>{
+        let next=(arr[i+1]!=null)?arr[i+1]:0;
+        return acc.concat(-curr+next);
+    },[]);
+    new_arr.pop();
+    return new_arr;
+}
+//I dont copy solution;because i dont cheater
+//p.s. But solution LeetsCode is so easy , I am ashamed that I did not guess
