@@ -1,0 +1,19 @@
+/**
+ * @param {string} s
+ * @param {string} t
+ * @return {boolean}
+ */
+var isSubsequence = function(s, t) {
+    
+    let res= s
+            .split('')
+            .map((el)=>{
+                let temp=t.indexOf(el);
+                t=(temp!=-1)?t.slice(temp+1):t;
+                return temp;
+            });
+    let result=res.reduce((acc,val,i,arr)=>{
+                return (val>-1)&&acc;
+               },true);
+    return result;
+};
