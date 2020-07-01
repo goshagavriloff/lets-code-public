@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./solutions/13.%20Roman%20to%20IntegerJavaScript)|200 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./solutions/48.%20Rotate%20ImageJavaScript)|56 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20AnagramsJavaScript)|116 ms|
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IIJavaScript)|60 ms|
