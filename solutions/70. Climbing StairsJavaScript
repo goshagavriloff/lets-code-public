@@ -1,0 +1,21 @@
+/**
+ * @param {number} n
+ * @return {number}
+ */
+var climbStairs = function(n) {
+    let NotValid=(n<0);
+    let i=4;
+    let arr=[];
+    arr.push(0,1,2,3);
+    while (i<=n){
+        
+        arr.push(arr[i-1]+arr[i-2]);
+        i++;
+    }
+    
+    
+    
+    let result=NotValid?1:arr[n];
+    return result;
+};
+
