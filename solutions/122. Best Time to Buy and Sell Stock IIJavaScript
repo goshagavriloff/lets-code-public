@@ -1,0 +1,26 @@
+/**
+ * @param {number[]} prices
+ * @return {number}
+ */
+let maxProfit =(prices,i=0) =>{
+    let sub=[];
+    let sum=0;
+    let j=0;
+     while (i<prices.length) {
+         let current=prices[i];
+         let next=prices[i+1];
+         let raz=current-next;
+         if (raz<0){
+             sub.push(-raz);
+         }
+         i++;
+     }
+    while (j<sub.length) {
+        sum+=sub[j];
+        j++;
+    }
+    return sum;
+};
+
+
+ 
