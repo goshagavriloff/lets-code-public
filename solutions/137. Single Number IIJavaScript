@@ -1,0 +1,11 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var singleNumber = function(nums) {
+    
+    let str=nums.sort((a,b)=>{return b-a;}).join(',')+',';
+    let res=str.replace(/(\d+?,)\1{2}/g,'').replace(/(-\d+?,)\1{2}/g,'').replace(/,/g,'');
+    return res;
+  
+};
