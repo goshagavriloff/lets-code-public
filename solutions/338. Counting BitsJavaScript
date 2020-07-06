@@ -1,0 +1,21 @@
+/**
+ * @param {number} num
+ * @return {number[]}
+ */
+var countBits = function(num) {
+    let arr=Array(num+1).fill(0);
+    let result=arr.map((el,i)=>{
+        return (parseByte(i));
+    });
+   return result;
+};
+
+let parseByte=(i)=>{
+    if (i<2){
+        return i;
+    } else {
+        let res=i%2;
+     
+        return parseByte(Math.trunc(i/2))+res;
+    }
+}
