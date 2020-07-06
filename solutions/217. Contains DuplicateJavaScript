@@ -3,23 +3,10 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-       let status=false;
-        _check:
-        for (i = 0; i < nums.length; i++) {
-            
-          for (j = 1; j < nums.length; j++) {
-              if (i!=j) {
-                   s=nums[i]==nums[j];
-                   if (s){
-                       status=true;
-                       break _check;
-                        }
-                  }
-           
-            
-            }
-        
-    }
-    return status;
+    let arr=Array.from(new Set(nums).values());
+    return nums.length!=arr.length;
     
 };
+let costumF=(a,b)=>{
+    return a-b;
+}
