@@ -39,6 +39,7 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./solutions/242.%20Valid%20AnagramJavaScript)|104 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./solutions/278.%20First%20Bad%20VersionJavaScript)|44 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./solutions/283.%20Move%20ZeroesJavaScript)|56 ms|
+|287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](./solutions/287.%20Find%20the%20Duplicate%20NumberJavaScript)|96 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[JavaScript](./solutions/328.%20Odd%20Even%20Linked%20ListJavaScript)|68 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[JavaScript](./solutions/338.%20Counting%20BitsJavaScript)|120 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./solutions/344.%20Reverse%20StringJavaScript)|104 ms|
