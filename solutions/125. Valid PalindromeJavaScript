@@ -1,0 +1,24 @@
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
+var isPalindrome = function(s) {
+
+    let status=false;
+    let arr =s.toLowerCase().match(/([A-Za-z0-9])/g);
+    
+    if (arr==null){
+        arr=[];
+    }
+    
+    let a=arr.join();
+    let b=arr.reverse().join();
+    
+    if (a==b){
+        status=true;
+    }
+    
+    return status;
+
+
+};
