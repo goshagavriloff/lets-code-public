@@ -1,0 +1,9 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findDuplicate = function(nums) {
+    let str=','+nums.sort((a,b)=>{return a-b;}).join(',')+',';
+    let res=str.match(/,(\d+?,)\1/g)[0].match(/(?:\d)+/g);
+    return res[0];
+};
