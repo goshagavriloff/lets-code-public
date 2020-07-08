@@ -1,0 +1,23 @@
+/**
+ * @param {number[][]} points
+ * @param {number} K
+ * @return {number[][]}
+ */
+var kClosest = function(points, K) {
+   let euclid_distanse=points.map((el,i)=>{
+       return new Map([
+           ['id',i],
+           ['dist',Math.sqrt(el[0]**2+el[1]**2)],
+           ['items',el]
+       ]);
+   }).sort((a,b)=>{
+           return a.get('dist')-b.get('dist');
+       }); 
+    let result=[];
+    result.length=K;
+    result.fill(0);
+    return result.map((el,i)=>{
+        
+        return euclid_distanse[i].get('items');
+    });
+};
