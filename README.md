@@ -50,6 +50,7 @@
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./solutions/392.%20Is%20SubsequenceJavaScript)|68 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JavaScript](./solutions/434.%20Number%20of%20Segments%20in%20a%20StringJavaScript)|72 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](./solutions/451.%20Sort%20Characters%20By%20FrequencyJavaScript)|104 ms|
+|468|[ Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[JavaScript](./solutions/468.%20Validate%20IP%20AddressJavaScript)|64 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20FillJavaScript)|96 ms|
