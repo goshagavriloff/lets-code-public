@@ -1,0 +1,18 @@
+/**
+ * @param {string} IP
+ * @return {string}
+ */
+var validIPAddress = function(IP) {
+    let v4=IP+'.';
+    let v6=IP+':';
+    
+    let isValidV4=v4.match(/^(([0-9]\.)|([1-9]\d\.)|(1\d\d\.)|(2[0-4]\d\.)|(25[0-5]\.)){4}$/g)!=null;
+    let isValidV6=v6.match(/^([a-f0-9]{1,4}:){8}$/gi)!=null;
+    
+    let result="Neither";
+    
+    result=isValidV4?"IPv4":isValidV6?"IPv6":"Neither";
+    
+    
+    return result;
+};
