@@ -29,6 +29,7 @@
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./solutions/141.%20Linked%20List%20CycleJavaScript)|120 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./solutions/189.%20Rotate%20ArrayJavaScript)|96 ms|
+|202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./solutions/202.%20Happy%20NumberJavaScript)|84 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20ListJavaScript)|72 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20DuplicateJavaScript)|108 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20TreeJavaScript)|68 ms|
