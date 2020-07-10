@@ -1,0 +1,31 @@
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var isHappy = function(n) {
+    let result=false;
+    let arrMap=[];
+    let arrSet=new Set(); 
+    let res=getRes(n);   
+    
+    arrMap.push(n);
+    arrSet.add(n);
+  
+        while (res!=1){
+            if (arrMap.length!=arrSet.size){    
+                break;
+            }
+            res=getRes(res);
+            arrMap.push(res);
+            arrSet.add(res);
+        }
+    
+        return arrMap.length==arrSet.size;
+};
+
+let getRes=(n)=>{
+     let res=n.toString().split('').reduce((acc,el)=>{
+            return el**2+acc;
+        },0);
+    return res;
+}
