@@ -28,6 +28,7 @@
 |137|[ Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./solutions/137.%20Single%20Number%20IIJavaScript)|100 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./solutions/141.%20Linked%20List%20CycleJavaScript)|120 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
+|175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./solutions/175.%20Combine%20Two%20Tables.mysql)|386 ms|
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./solutions/189.%20Rotate%20ArrayJavaScript)|96 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./solutions/202.%20Happy%20NumberJavaScript)|84 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20ListJavaScript)|72 ms|
