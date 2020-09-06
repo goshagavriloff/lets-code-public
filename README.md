@@ -58,6 +58,7 @@
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20FillJavaScript)|96 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20StonesJavaScript)|60 ms|
+|949|[ Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[JavaScript](./solutions/949.%20Largest%20Time%20for%20Given%20Digits.js)|84 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[JavaScript](./solutions/973.%20K%20Closest%20Points%20to%20OriginJavaScript)|416 ms|
 |993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[JavaScript](./solutions/993.%20Cousins%20in%20Binary%20TreeJavaScript)|64 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[JavaScript](./solutions/997.%20Find%20the%20Town%20JudgeJavaScript)|476 ms|
