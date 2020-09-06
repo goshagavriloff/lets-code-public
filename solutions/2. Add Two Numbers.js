@@ -29,14 +29,3 @@ var addTwoNumbers = function(l1, l2) {
     
 ​
     let saveDec=0;
-    for (let i=0;i<sum.length;i++){
-        let num=sum.length-1;
-        
-        let temp=(parseInt(sum[i])+parseInt(arr[1][i]));
-        let dec=getSubUnit(temp);
-        let check=getValidUnit(temp)+saveDec;
-        
-        dec+=getSubUnit(check);
-        
-        res.push(getValidUnit(check));
-        
