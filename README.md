@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20SumJavaScript)|216 ms|
+|2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./solutions/2.%20Add%20Two%20Numbers.js)|148 ms|
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./solutions/7.%20Reverse%20IntegerJavaScript)|76 ms|
 |8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[JavaScript](./solutions/8.%20String%20to%20Integer%20(atoi)JavaScript)|80 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./solutions/13.%20Roman%20to%20IntegerJavaScript)|200 ms|
