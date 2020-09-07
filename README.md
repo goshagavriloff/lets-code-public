@@ -19,6 +19,7 @@
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./solutions/38.%20Count%20and%20SayJavaScript)|76 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./solutions/48.%20Rotate%20ImageJavaScript)|56 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20AnagramsJavaScript)|116 ms|
+|58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./solutions/58.%20Length%20of%20Last%20Word.js)|68 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./solutions/66.%20Plus%20OneJavaScript)|52 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./solutions/70.%20Climbing%20StairsJavaScript)|52 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./solutions/75.%20Sort%20ColorsJavaScript)|N/A|
