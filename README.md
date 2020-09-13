@@ -62,6 +62,7 @@
 |468|[ Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[JavaScript](./solutions/468.%20Validate%20IP%20AddressJavaScript)|64 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
+|596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|289 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20FillJavaScript)|96 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20StonesJavaScript)|60 ms|
 |949|[ Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[JavaScript](./solutions/949.%20Largest%20Time%20for%20Given%20Digits.js)|84 ms|
