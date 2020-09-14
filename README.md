@@ -63,6 +63,7 @@
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](./solutions/451.%20Sort%20Characters%20By%20FrequencyJavaScript)|104 ms|
 |468|[ Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[JavaScript](./solutions/468.%20Validate%20IP%20AddressJavaScript)|64 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
+|520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[JavaScript](./solutions/520.%20Detect%20Capital.js)|88 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|289 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20FillJavaScript)|96 ms|
