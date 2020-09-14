@@ -13,6 +13,7 @@
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./solutions/21.%20Merge%20Two%20Sorted%20ListsJavaScript)|76 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20ArrayJavaScript)|88 ms|
 |28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./solutions/28.%20Implement%20strStr()JavaScript)|56 ms|
+|29|[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JavaScript](./solutions/29.%20Divide%20Two%20Integers.js)|108 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./solutions/33.%20Search%20in%20Rotated%20Sorted%20ArrayJavaScript)|72 ms|
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./solutions/35.%20Search%20Insert%20PositionJavaScript)|64 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./solutions/36.%20Valid%20SudokuJavaScript)|296 ms|
