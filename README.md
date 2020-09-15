@@ -55,6 +55,7 @@
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[JavaScript](./solutions/338.%20Counting%20BitsJavaScript)|120 ms|
 |342|[ Power of Four](https://leetcode.com/problems/power-of-four/)|[JavaScript](./solutions/342.%20Power%20of%20Four.js)|112 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./solutions/344.%20Reverse%20StringJavaScript)|104 ms|
+|345|[ Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](./solutions/345.%20Reverse%20Vowels%20of%20a%20String.js)|112 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./solutions/350.%20Intersection%20of%20Two%20Arrays%20IIJavaScript)|88 ms|
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](./solutions/367.%20Valid%20Perfect%20SquareJavaScript)|52 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./solutions/383.%20Ransom%20NoteJavaScript)|2692 ms|
