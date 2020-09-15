@@ -30,6 +30,7 @@
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20StockJavaScript)|3448 ms|
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IIJavaScript)|60 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./solutions/125.%20Valid%20PalindromeJavaScript)|64 ms|
+|136|[ Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./solutions/136.%20Single%20Number.js)|812 ms|
 |137|[ Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./solutions/137.%20Single%20Number%20IIJavaScript)|100 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./solutions/141.%20Linked%20List%20CycleJavaScript)|120 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
