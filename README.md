@@ -86,3 +86,4 @@
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20ZeroJavaScript)|76 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[JavaScript](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.js)|104 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[JavaScript](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20ArrayJavaScript)|72 ms|
+|1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[JavaScript](./solutions/1550.%20Three%20Consecutive%20Odds.js)|72 ms|
