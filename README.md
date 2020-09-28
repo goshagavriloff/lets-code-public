@@ -39,6 +39,7 @@
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./solutions/182.%20Duplicate%20Emails.mysql)|530 ms|
 |183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MySQL](./solutions/183.%20Customers%20Who%20Never%20Order.mysql)|622 ms|
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./solutions/189.%20Rotate%20ArrayJavaScript)|96 ms|
+|190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[JavaScript](./solutions/190.%20Reverse%20Bits.js)|100 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](./solutions/191.%20Number%20of%201%20Bits.js)|88 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./solutions/202.%20Happy%20NumberJavaScript)|84 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20ListJavaScript)|72 ms|
