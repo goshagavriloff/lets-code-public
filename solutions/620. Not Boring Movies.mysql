@@ -1,0 +1,5 @@
+# Write your MySQL query statement below
+select * from cinema 
+where 
+NOT(id%2=0) AND (NOT(description="boring"))
+ORDER BY rating DESC;
