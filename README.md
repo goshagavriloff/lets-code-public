@@ -72,6 +72,7 @@
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JavaScript](./solutions/459.%20Repeated%20Substring%20Pattern.js)|92 ms|
 |468|[ Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[JavaScript](./solutions/468.%20Validate%20IP%20AddressJavaScript)|64 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
+|500|[ Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JavaScript](./solutions/500.%20Keyboard%20Row.js)|80 ms|
 |504|[ Base 7](https://leetcode.com/problems/base-7/)|[JavaScript](./solutions/504.%20Base%207.js)|112 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[JavaScript](./solutions/520.%20Detect%20Capital.js)|88 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
