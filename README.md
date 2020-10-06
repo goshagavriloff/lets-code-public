@@ -103,3 +103,4 @@
 |1507|[ Reformat Date](https://leetcode.com/problems/reformat-date/)|[JavaScript](./solutions/1507.%20Reformat%20Date.js)|76 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./solutions/1528.%20Shuffle%20String.js)|92 ms|
 |1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[JavaScript](./solutions/1550.%20Three%20Consecutive%20Odds.js)|72 ms|
+|1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[JavaScript](./solutions/1556.%20Thousand%20Separator.js)|76 ms|
