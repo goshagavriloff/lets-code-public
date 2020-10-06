@@ -104,3 +104,4 @@
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./solutions/1528.%20Shuffle%20String.js)|92 ms|
 |1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[JavaScript](./solutions/1550.%20Three%20Consecutive%20Odds.js)|72 ms|
 |1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[JavaScript](./solutions/1556.%20Thousand%20Separator.js)|76 ms|
+|1592|[ Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[JavaScript](./solutions/1592.%20Rearrange%20Spaces%20Between%20Words.js)|76 ms|
