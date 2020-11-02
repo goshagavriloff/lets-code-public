@@ -102,6 +102,7 @@
 |1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[JavaScript](./solutions/1189.%20Maximum%20Number%20of%20BalloonsJavaScript)|68 ms|
 |1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[JavaScript](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20LineJavaScript)|56 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[JavaScript](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20IntegerJavaScript)|68 ms|
+|1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[JavaScript](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.js)|84 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20ZeroJavaScript)|76 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[JavaScript](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.js)|104 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[JavaScript](./solutions/1446.%20Consecutive%20Characters.js)|76 ms|
