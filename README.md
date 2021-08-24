@@ -8,6 +8,7 @@
 |8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[JavaScript](./solutions/8.%20String%20to%20Integer%20(atoi)JavaScript)|80 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./solutions/13.%20Roman%20to%20IntegerJavaScript)|200 ms|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./solutions/14.%20Longest%20Common%20PrefixJavaScript)|96 ms|
+|17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.js)|72 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20ListJavaScript)|60 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./solutions/20.%20Valid%20Parentheses.js)|112 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./solutions/21.%20Merge%20Two%20Sorted%20ListsJavaScript)|76 ms|
