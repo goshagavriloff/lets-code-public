@@ -39,6 +39,7 @@
 |137|[ Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./solutions/137.%20Single%20Number%20IIJavaScript)|100 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./solutions/141.%20Linked%20List%20CycleJavaScript)|120 ms|
 |151|[ Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[JavaScript](./solutions/151.%20Reverse%20Words%20in%20a%20String.js)|76 ms|
+|168|[ Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[JavaScript](./solutions/168.%20Excel%20Sheet%20Column%20Title.js)|76 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./solutions/175.%20Combine%20Two%20Tables.mysql)|386 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./solutions/182.%20Duplicate%20Emails.mysql)|530 ms|
