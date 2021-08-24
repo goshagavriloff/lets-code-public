@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+SELECT Name AS Employee 
+FROM Employee AS `A`
+WHERE Salary>(
+    SELECT Salary
+    FROM Employee AS `B`
+    WHERE `B`.Id=`A`.ManagerId
+);
