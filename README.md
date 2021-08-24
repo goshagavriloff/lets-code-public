@@ -43,6 +43,7 @@
 |168|[ Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[JavaScript](./solutions/168.%20Excel%20Sheet%20Column%20Title.js)|76 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavaScript](./solutions/171.%20Excel%20Sheet%20Column%20Number.js)|104 ms|
+|172|[ Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[JavaScript](./solutions/172.%20Factorial%20Trailing%20Zeroes.js)|104 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./solutions/175.%20Combine%20Two%20Tables.mysql)|386 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./solutions/182.%20Duplicate%20Emails.mysql)|530 ms|
 |183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MySQL](./solutions/183.%20Customers%20Who%20Never%20Order.mysql)|622 ms|
