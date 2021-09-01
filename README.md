@@ -25,6 +25,7 @@
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20AnagramsJavaScript)|116 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./solutions/58.%20Length%20of%20Last%20Word.js)|68 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./solutions/66.%20Plus%20OneJavaScript)|52 ms|
+|67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./solutions/67.%20Add%20Binary.js)|190 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./solutions/69.%20Sqrt(x).js)|88 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./solutions/70.%20Climbing%20StairsJavaScript)|52 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./solutions/75.%20Sort%20ColorsJavaScript)|N/A|
