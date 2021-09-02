@@ -133,3 +133,4 @@
 |1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[JavaScript](./solutions/1556.%20Thousand%20Separator.js)|76 ms|
 |1592|[ Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[JavaScript](./solutions/1592.%20Rearrange%20Spaces%20Between%20Words.js)|76 ms|
 |1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[JavaScript](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js)|156 ms|
+|1880|[ Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[JavaScript](./solutions/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.js)|103 ms|
