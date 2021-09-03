@@ -134,4 +134,5 @@
 |1592|[ Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[JavaScript](./solutions/1592.%20Rearrange%20Spaces%20Between%20Words.js)|76 ms|
 |1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[JavaScript](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js)|156 ms|
 |1880|[ Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[JavaScript](./solutions/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.js)|103 ms|
+|1957|[ Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[JavaScript](./solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.js)|1236 ms|
 |1967|[ Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|[JavaScript](./solutions/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js)|88 ms|
