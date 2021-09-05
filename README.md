@@ -134,6 +134,7 @@
 |1592|[ Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[JavaScript](./solutions/1592.%20Rearrange%20Spaces%20Between%20Words.js)|76 ms|
 |1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[JavaScript](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js)|156 ms|
 |1880|[ Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[JavaScript](./solutions/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.js)|103 ms|
+|1909|[ Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/)|[JavaScript](./solutions/1909.%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.js)|108 ms|
 |1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[JavaScript](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js)|171 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[JavaScript](./solutions/1920.%20Build%20Array%20from%20Permutation.js)|281 ms|
 |1957|[ Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[JavaScript](./solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.js)|1236 ms|
