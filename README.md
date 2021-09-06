@@ -139,4 +139,5 @@
 |1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[JavaScript](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.js)|171 ms|
 |1920|[ Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[JavaScript](./solutions/1920.%20Build%20Array%20from%20Permutation.js)|281 ms|
 |1957|[ Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[JavaScript](./solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.js)|1236 ms|
+|1961|[ Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[JavaScript](./solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.js)|76 ms|
 |1967|[ Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|[JavaScript](./solutions/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js)|88 ms|
