@@ -49,6 +49,7 @@
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavaScript](./solutions/171.%20Excel%20Sheet%20Column%20Number.js)|104 ms|
 |172|[ Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[JavaScript](./solutions/172.%20Factorial%20Trailing%20Zeroes.js)|104 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./solutions/175.%20Combine%20Two%20Tables.mysql)|386 ms|
+|176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](./solutions/176.%20Second%20Highest%20Salary.mysql)|170 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql)|928 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./solutions/182.%20Duplicate%20Emails.mysql)|530 ms|
 |183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MySQL](./solutions/183.%20Customers%20Who%20Never%20Order.mysql)|622 ms|
