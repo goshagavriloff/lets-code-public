@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+select IF(
+    (select count(distinct Salary) from Employee)>1,Salary,null) as `SecondHighestSalary`
+from (
+select distinct(salary) from Employee order by salary desc limit 2
+) as `A`
+order by `SecondHighestSalary` limit 1;
