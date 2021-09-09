@@ -108,6 +108,7 @@
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./solutions/657.%20Robot%20Return%20to%20Origin.js)|92 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.js)|112 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20FillJavaScript)|96 ms|
+|744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[JavaScript](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.js)|119 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20StonesJavaScript)|60 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[JavaScript](./solutions/905.%20Sort%20Array%20By%20Parity.js)|100 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[JavaScript](./solutions/917.%20Reverse%20Only%20Letters.js)|84 ms|
