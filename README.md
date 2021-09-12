@@ -83,6 +83,7 @@
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](./solutions/349.%20Intersection%20of%20Two%20Arrays.js)|72 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./solutions/350.%20Intersection%20of%20Two%20Arrays%20IIJavaScript)|88 ms|
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](./solutions/367.%20Valid%20Perfect%20SquareJavaScript)|52 ms|
+|374|[ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[JavaScript](./solutions/374.%20Guess%20Number%20Higher%20or%20Lower.js)|76 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./solutions/383.%20Ransom%20NoteJavaScript)|2692 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./solutions/387.%20First%20Unique%20Character%20in%20a%20StringJavaScript)|216 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./solutions/392.%20Is%20SubsequenceJavaScript)|68 ms|
