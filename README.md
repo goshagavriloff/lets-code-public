@@ -91,6 +91,7 @@
 |414|[ Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JavaScript](./solutions/414.%20Third%20Maximum%20Number.js)|123 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[JavaScript](./solutions/415.%20Add%20Strings.js)|822 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JavaScript](./solutions/434.%20Number%20of%20Segments%20in%20a%20StringJavaScript)|72 ms|
+|441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[JavaScript](./solutions/441.%20Arranging%20Coins.js)|147 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](./solutions/451.%20Sort%20Characters%20By%20FrequencyJavaScript)|104 ms|
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JavaScript](./solutions/459.%20Repeated%20Substring%20Pattern.js)|92 ms|
 |468|[ Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[JavaScript](./solutions/468.%20Validate%20IP%20AddressJavaScript)|64 ms|
