@@ -61,6 +61,7 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20ListJavaScript)|72 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20DuplicateJavaScript)|108 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](./solutions/219.%20Contains%20Duplicate%20II.js)|3260 ms|
+|224|[ Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[JavaScript](./solutions/224.%20Basic%20Calculator.js)|360 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20TreeJavaScript)|68 ms|
 |230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BSTJavaScript)|192 ms|
 |231|[ Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](./solutions/231.%20Power%20of%20TwoJavaScript)|100 ms|
