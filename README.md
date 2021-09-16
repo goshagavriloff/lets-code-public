@@ -25,6 +25,7 @@
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./solutions/48.%20Rotate%20ImageJavaScript)|56 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20AnagramsJavaScript)|116 ms|
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./solutions/50.%20Pow(x%2C%20n).js)|76 ms|
+|54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./solutions/54.%20Spiral%20Matrix.js)|72 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./solutions/58.%20Length%20of%20Last%20Word.js)|68 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./solutions/66.%20Plus%20OneJavaScript)|52 ms|
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./solutions/67.%20Add%20Binary.js)|190 ms|
