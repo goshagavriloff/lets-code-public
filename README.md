@@ -34,6 +34,7 @@
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./solutions/70.%20Climbing%20StairsJavaScript)|52 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./solutions/75.%20Sort%20ColorsJavaScript)|N/A|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./solutions/88.%20Merge%20Sorted%20ArrayJavaScript)|68 ms|
+|98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./solutions/98.%20Validate%20Binary%20Search%20Tree.js)|148 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./solutions/100.%20Same%20Tree.js)|76 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|84 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20TreeJavaScript)|172 ms|
