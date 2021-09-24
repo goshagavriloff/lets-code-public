@@ -10,21 +10,14 @@
  * @return {ListNode}
  */
 var deleteDuplicates = function(head) {
-    console.log(recDuplicate(head));
+    if (head ==null){
+        return null;
+    }
+    
+        while ((head.next!=null)&&(head.val==head.next.val)){
+            head=head.next;
+        } 
+    
+​
+    return new ListNode(head.val,deleteDuplicates(head.next));
 };
-​
-let recDuplicate=(root,result=new ListNode())=>{
-    if (root.next==null){
-        return root;
-    }
-    
-    result.val=root.val;
-    while (root.next!=null){
-        root.next=root.next;
-    }
-    
-    result.next=recDuplicate(root.next);
-    return result;
-}
-​
-​
