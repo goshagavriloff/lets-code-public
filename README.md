@@ -132,6 +132,7 @@
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[JavaScript](./solutions/997.%20Find%20the%20Town%20JudgeJavaScript)|476 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[JavaScript](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.js)|72 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20AddressJavaScript)|56 ms|
+|1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[JavaScript](./solutions/1137.%20N-th%20Tribonacci%20Number.js)|72 ms|
 |1154|[ Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[JavaScript](./solutions/1154.%20Day%20of%20the%20Year.js)|216 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|441 ms|
 |1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[JavaScript](./solutions/1189.%20Maximum%20Number%20of%20BalloonsJavaScript)|68 ms|
