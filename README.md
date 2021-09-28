@@ -125,6 +125,7 @@
 |832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[JavaScript](./solutions/832.%20Flipping%20an%20Image.js)|76 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[JavaScript](./solutions/905.%20Sort%20Array%20By%20Parity.js)|100 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[JavaScript](./solutions/917.%20Reverse%20Only%20Letters.js)|84 ms|
+|922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[JavaScript](./solutions/922.%20Sort%20Array%20By%20Parity%20II.js)|120 ms|
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[JavaScript](./solutions/929.%20Unique%20Email%20Addresses.js)|92 ms|
 |941|[ Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./solutions/941.%20Valid%20Mountain%20Array.js)|92 ms|
 |949|[ Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[JavaScript](./solutions/949.%20Largest%20Time%20for%20Given%20Digits.js)|84 ms|
