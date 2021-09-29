@@ -117,6 +117,7 @@
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./solutions/657.%20Robot%20Return%20to%20Origin.js)|92 ms|
 |693|[ Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[JavaScript](./solutions/693.%20Binary%20Number%20with%20Alternating%20Bits.js)|68 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.js)|112 ms|
+|724|[ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./solutions/724.%20Find%20Pivot%20Index.js)|940 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20FillJavaScript)|96 ms|
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[JavaScript](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.js)|119 ms|
 |766|[ Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[JavaScript](./solutions/766.%20Toeplitz%20Matrix.js)|97 ms|
