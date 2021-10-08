@@ -128,6 +128,7 @@
 |744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[JavaScript](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.js)|119 ms|
 |766|[ Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[JavaScript](./solutions/766.%20Toeplitz%20Matrix.js)|97 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20StonesJavaScript)|60 ms|
+|796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[JavaScript](./solutions/796.%20Rotate%20String.js)|76 ms|
 |819|[ Most Common Word](https://leetcode.com/problems/most-common-word/)|[JavaScript](./solutions/819.%20Most%20Common%20Word.js)|166 ms|
 |832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[JavaScript](./solutions/832.%20Flipping%20an%20Image.js)|76 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[JavaScript](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.js)|72 ms|
