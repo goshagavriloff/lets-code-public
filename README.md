@@ -65,6 +65,7 @@
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./solutions/189.%20Rotate%20ArrayJavaScript)|96 ms|
 |190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[JavaScript](./solutions/190.%20Reverse%20Bits.js)|100 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](./solutions/191.%20Number%20of%201%20Bits.js)|88 ms|
+|201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[JavaScript](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.js)|208 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./solutions/202.%20Happy%20NumberJavaScript)|84 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|174 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20ListJavaScript)|72 ms|
