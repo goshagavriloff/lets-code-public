@@ -34,6 +34,7 @@
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./solutions/67.%20Add%20Binary.js)|190 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./solutions/69.%20Sqrt(x).js)|88 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./solutions/70.%20Climbing%20StairsJavaScript)|52 ms|
+|73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JavaScript](./solutions/73.%20Set%20Matrix%20Zeroes.js)|100 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./solutions/75.%20Sort%20Colors.js)|76 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.js)|88 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./solutions/88.%20Merge%20Sorted%20ArrayJavaScript)|68 ms|
