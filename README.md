@@ -80,6 +80,7 @@
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./solutions/242.%20Valid%20AnagramJavaScript)|104 ms|
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](./solutions/257.%20Binary%20Tree%20Paths.js)|80 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./solutions/258.%20Add%20Digits.js)|88 ms|
+|260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./solutions/260.%20Single%20Number%20III.js)|128 ms|
 |263|[ Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](./solutions/263.%20Ugly%20Number.js)|92 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./solutions/268.%20Missing%20Number.js)|108 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./solutions/278.%20First%20Bad%20VersionJavaScript)|44 ms|
