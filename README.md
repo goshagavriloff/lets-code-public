@@ -162,6 +162,7 @@
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[JavaScript](./solutions/1408.%20String%20Matching%20in%20an%20Array.js)|88 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[JavaScript](./solutions/1446.%20Consecutive%20Characters.js)|76 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[JavaScript](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20ArrayJavaScript)|72 ms|
+|1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[JavaScript](./solutions/1470.%20Shuffle%20the%20Array.js)|190 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./solutions/1480.%20Running%20Sum%20of%201d%20Array.js)|96 ms|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[JavaScript](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.js)|80 ms|
 |1507|[ Reformat Date](https://leetcode.com/problems/reformat-date/)|[JavaScript](./solutions/1507.%20Reformat%20Date.js)|76 ms|
