@@ -173,6 +173,7 @@
 |1629|[ Slowest Key](https://leetcode.com/problems/slowest-key/)|[JavaScript](./solutions/1629.%20Slowest%20Key.js)|83 ms|
 |1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[JavaScript](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js)|156 ms|
 |1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[JavaScript](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.js)|72 ms|
+|1796|[ Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[JavaScript](./solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.js)|118 ms|
 |1805|[ Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[JavaScript](./solutions/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js)|119 ms|
 |1859|[ Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[JavaScript](./solutions/1859.%20Sorting%20the%20Sentence.js)|108 ms|
 |1880|[ Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[JavaScript](./solutions/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.js)|103 ms|
