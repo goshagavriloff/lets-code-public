@@ -162,6 +162,7 @@
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[JavaScript](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js)|75 ms|
 |1394|[ Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[JavaScript](./solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.js)|184 ms|
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[JavaScript](./solutions/1408.%20String%20Matching%20in%20an%20Array.js)|88 ms|
+|1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[JavaScript](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js)|76 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[JavaScript](./solutions/1446.%20Consecutive%20Characters.js)|76 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[JavaScript](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20ArrayJavaScript)|72 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[JavaScript](./solutions/1470.%20Shuffle%20the%20Array.js)|190 ms|
