@@ -181,6 +181,7 @@
 |1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[JavaScript](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.js)|72 ms|
 |1796|[ Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[JavaScript](./solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.js)|118 ms|
 |1805|[ Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[JavaScript](./solutions/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js)|119 ms|
+|1844|[ Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[JavaScript](./solutions/1844.%20Replace%20All%20Digits%20with%20Characters.js)|111 ms|
 |1859|[ Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[JavaScript](./solutions/1859.%20Sorting%20the%20Sentence.js)|108 ms|
 |1880|[ Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[JavaScript](./solutions/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.js)|103 ms|
 |1903|[ Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[JavaScript](./solutions/1903.%20Largest%20Odd%20Number%20in%20String.js)|7692 ms|
