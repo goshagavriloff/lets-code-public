@@ -123,6 +123,7 @@
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|289 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./solutions/620.%20Not%20Boring%20Movies.mysql)|308 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|216 ms|
+|645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](./solutions/645.%20Set%20Mismatch.js)|2452 ms|
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./solutions/657.%20Robot%20Return%20to%20Origin.js)|92 ms|
 |693|[ Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[JavaScript](./solutions/693.%20Binary%20Number%20with%20Alternating%20Bits.js)|68 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.js)|112 ms|
