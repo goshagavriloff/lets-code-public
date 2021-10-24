@@ -30,6 +30,7 @@
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./solutions/54.%20Spiral%20Matrix.js)|72 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./solutions/58.%20Length%20of%20Last%20Word.js)|68 ms|
 |59|[ Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[JavaScript](./solutions/59.%20Spiral%20Matrix%20II.js)|84 ms|
+|62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[JavaScript](./solutions/62.%20Unique%20Paths.js)|101 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./solutions/66.%20Plus%20OneJavaScript)|52 ms|
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./solutions/67.%20Add%20Binary.js)|190 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./solutions/69.%20Sqrt(x).js)|88 ms|
