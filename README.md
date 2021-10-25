@@ -202,3 +202,4 @@
 |1957|[ Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[JavaScript](./solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.js)|1236 ms|
 |1961|[ Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[JavaScript](./solutions/1961.%20Check%20If%20String%20Is%20a%20Prefix%20of%20Array.js)|76 ms|
 |1967|[ Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)|[JavaScript](./solutions/1967.%20Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word.js)|88 ms|
+|2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[JavaScript](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.js)|104 ms|
