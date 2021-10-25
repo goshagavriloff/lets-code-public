@@ -57,6 +57,7 @@
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./solutions/141.%20Linked%20List%20CycleJavaScript)|120 ms|
 |151|[ Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[JavaScript](./solutions/151.%20Reverse%20Words%20in%20a%20String.js)|76 ms|
 |154|[ Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[JavaScript](./solutions/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.js)|126 ms|
+|155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[JavaScript](./solutions/155.%20Min%20Stack.js)|308 ms|
 |168|[ Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[JavaScript](./solutions/168.%20Excel%20Sheet%20Column%20Title.js)|76 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20ElementJavaScript)|56 ms|
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[JavaScript](./solutions/171.%20Excel%20Sheet%20Column%20Number.js)|104 ms|
