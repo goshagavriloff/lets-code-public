@@ -144,6 +144,7 @@
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[JavaScript](./solutions/796.%20Rotate%20String.js)|76 ms|
 |819|[ Most Common Word](https://leetcode.com/problems/most-common-word/)|[JavaScript](./solutions/819.%20Most%20Common%20Word.js)|166 ms|
 |824|[ Goat Latin](https://leetcode.com/problems/goat-latin/)|[JavaScript](./solutions/824.%20Goat%20Latin.js)|76 ms|
+|830|[ Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[JavaScript](./solutions/830.%20Positions%20of%20Large%20Groups.js)|137 ms|
 |832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[JavaScript](./solutions/832.%20Flipping%20an%20Image.js)|76 ms|
 |848|[ Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[JavaScript](./solutions/848.%20Shifting%20Letters.js)|258 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[JavaScript](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.js)|72 ms|
