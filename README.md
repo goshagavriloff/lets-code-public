@@ -172,6 +172,7 @@
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20ZeroJavaScript)|76 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[JavaScript](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.js)|114 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[JavaScript](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.js)|104 ms|
+|1360|[ Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[JavaScript](./solutions/1360.%20Number%20of%20Days%20Between%20Two%20Dates.js)|72 ms|
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[JavaScript](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js)|75 ms|
 |1394|[ Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[JavaScript](./solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.js)|184 ms|
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[JavaScript](./solutions/1408.%20String%20Matching%20in%20an%20Array.js)|88 ms|
