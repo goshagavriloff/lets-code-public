@@ -195,6 +195,7 @@
 |1592|[ Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[JavaScript](./solutions/1592.%20Rearrange%20Spaces%20Between%20Words.js)|76 ms|
 |1629|[ Slowest Key](https://leetcode.com/problems/slowest-key/)|[JavaScript](./solutions/1629.%20Slowest%20Key.js)|83 ms|
 |1636|[ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[JavaScript](./solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency.js)|140 ms|
+|1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[JavaScript](./solutions/1672.%20Richest%20Customer%20Wealth.js)|64 ms|
 |1684|[ Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[JavaScript](./solutions/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.js)|156 ms|
 |1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[JavaScript](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.js)|72 ms|
 |1796|[ Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[JavaScript](./solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.js)|118 ms|
