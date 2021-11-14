@@ -1,36 +1,3 @@
-/**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
- * }
- */
-/**
- * @param {ListNode} head
- * @param {number} left
- * @param {number} right
- * @return {ListNode}
- */
-var reverseBetween = function(head, left, right) {
-    
-    let result;
-    let [begin,middle,end]=[null,null,null];
-    let step=1;
-    
-    while (head!=null){
-        if (step<left){
-            begin=insertValIntoList(begin,head.val);
-        }
-        
-        if ((step>=left)&&(step<=right)){
-            let temp=new ListNode(head.val,middle);
-            middle=temp; 
-        }
-        
-        if (step>right){
-            end=insertValIntoList(end,head.val);
-        }
-        step++;
         head=head.next;
         
     }
@@ -44,3 +11,25 @@ var reverseBetween = function(head, left, right) {
 };
 let insertListIntoList=(head,list)=>{
     if (head==null){
+        return list;
+    }
+    let current = head;
+    while(current.next != null){
+        current = current.next;
+    }
+    current.next = list;
+    return head; 
+}
+let insertValIntoList=(head,val)=>{
+    if (head==null){
+        return new ListNode(val);
+    }
+    
+    let current = head;
+    while(current.next != null){
+        current = current.next;
+    }
+    
+    current.next = new ListNode(val);
+    return head;
+}
