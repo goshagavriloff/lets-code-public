@@ -43,6 +43,7 @@
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[JavaScript](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.js)|80 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.js)|88 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./solutions/88.%20Merge%20Sorted%20ArrayJavaScript)|68 ms|
+|92|[ Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JavaScript](./solutions/92.%20Reverse%20Linked%20List%20II.js)|80 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./solutions/98.%20Validate%20Binary%20Search%20Tree.js)|148 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./solutions/100.%20Same%20Tree.js)|76 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|84 ms|
