@@ -163,6 +163,7 @@
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.js)|120 ms|
 |993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[JavaScript](./solutions/993.%20Cousins%20in%20Binary%20TreeJavaScript)|64 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[JavaScript](./solutions/997.%20Find%20the%20Town%20JudgeJavaScript)|476 ms|
+|1006|[ Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)|[JavaScript](./solutions/1006.%20Clumsy%20Factorial.js)|244 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[JavaScript](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.js)|72 ms|
 |1019|[ Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[JavaScript](./solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List.js)|1236 ms|
 |1089|[ Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[JavaScript](./solutions/1089.%20Duplicate%20Zeros.js)|84 ms|
