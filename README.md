@@ -203,6 +203,7 @@
 |1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[JavaScript](./solutions/1550.%20Three%20Consecutive%20Odds.js)|72 ms|
 |1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[JavaScript](./solutions/1556.%20Thousand%20Separator.js)|76 ms|
 |1592|[ Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[JavaScript](./solutions/1592.%20Rearrange%20Spaces%20Between%20Words.js)|76 ms|
+|1609|[ Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[JavaScript](./solutions/1609.%20Even%20Odd%20Tree.js)|392 ms|
 |1629|[ Slowest Key](https://leetcode.com/problems/slowest-key/)|[JavaScript](./solutions/1629.%20Slowest%20Key.js)|83 ms|
 |1636|[ Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[JavaScript](./solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency.js)|140 ms|
 |1662|[ Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[JavaScript](./solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.js)|72 ms|
