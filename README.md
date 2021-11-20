@@ -200,6 +200,7 @@
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[JavaScript](./solutions/1470.%20Shuffle%20the%20Array.js)|190 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./solutions/1480.%20Running%20Sum%20of%201d%20Array.js)|96 ms|
 |1486|[ XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[JavaScript](./solutions/1486.%20XOR%20Operation%20in%20an%20Array.js)|80 ms|
+|1492|[ The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)|[JavaScript](./solutions/1492.%20The%20kth%20Factor%20of%20n.js)|72 ms|
 |1507|[ Reformat Date](https://leetcode.com/problems/reformat-date/)|[JavaScript](./solutions/1507.%20Reformat%20Date.js)|76 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./solutions/1512.%20Number%20of%20Good%20Pairs.js)|68 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./solutions/1528.%20Shuffle%20String.js)|92 ms|
