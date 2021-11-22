@@ -175,6 +175,7 @@
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20AddressJavaScript)|56 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[JavaScript](./solutions/1137.%20N-th%20Tribonacci%20Number.js)|72 ms|
 |1154|[ Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[JavaScript](./solutions/1154.%20Day%20of%20the%20Year.js)|216 ms|
+|1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[JavaScript](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.js)|204 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|441 ms|
 |1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[JavaScript](./solutions/1189.%20Maximum%20Number%20of%20BalloonsJavaScript)|68 ms|
 |1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[JavaScript](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20LineJavaScript)|56 ms|
