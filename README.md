@@ -119,6 +119,7 @@
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JavaScript](./solutions/404.%20Sum%20of%20Left%20Leaves.js)|88 ms|
 |414|[ Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JavaScript](./solutions/414.%20Third%20Maximum%20Number.js)|123 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[JavaScript](./solutions/415.%20Add%20Strings.js)|822 ms|
+|421|[ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[JavaScript](./solutions/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.js)|1856 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JavaScript](./solutions/434.%20Number%20of%20Segments%20in%20a%20StringJavaScript)|72 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[JavaScript](./solutions/441.%20Arranging%20Coins.js)|147 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.js)|463 ms|
