@@ -4,21 +4,15 @@
  */
 var totalHammingDistance = function(nums) {
     let result=0;
-    let queue={};
-    let keys=[...nums.keys()];
     for (let i=0;i<nums.length;i++){
+        let cursor=nums[i];
+        for (let j=0;j<nums.length;j++){
+            if ((j>i)&&(i!=j)){
+                let checked=nums[j];
+                result+=calcHamming(cursor,checked);
+                }
+        }
         
-        queue[i]=queue[i]==null?[i]:queue[i];  
-        
-        keys.filter(x => !queue[i].includes(x))
-            .forEach((key)=>{
-                result+=calcHamming(nums[key],nums[i]);
-                queue[i].push(key);
-                queue[key]=queue[key]==null?[key]:queue[key]; 
-                queue[key].push(i);
-            
-        });
-    
     }
     return result;
 };
