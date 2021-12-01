@@ -128,6 +128,7 @@
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JavaScript](./solutions/459.%20Repeated%20Substring%20Pattern.js)|92 ms|
 |468|[ Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[JavaScript](./solutions/468.%20Validate%20IP%20AddressJavaScript)|64 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
+|477|[ Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[JavaScript](./solutions/477.%20Total%20Hamming%20Distance.js)|9100 ms|
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[JavaScript](./solutions/482.%20License%20Key%20Formatting.js)|92 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./solutions/485.%20Max%20Consecutive%20Ones.js)|80 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[JavaScript](./solutions/496.%20Next%20Greater%20Element%20I.js)|84 ms|
