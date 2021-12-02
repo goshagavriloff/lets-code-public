@@ -40,6 +40,7 @@
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./solutions/70.%20Climbing%20StairsJavaScript)|52 ms|
 |73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JavaScript](./solutions/73.%20Set%20Matrix%20Zeroes.js)|100 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./solutions/75.%20Sort%20Colors.js)|76 ms|
+|77|[ Combinations](https://leetcode.com/problems/combinations/)|[JavaScript](./solutions/77.%20Combinations.js)|108 ms|
 |80|[ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JavaScript](./solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.js)|84 ms|
 |81|[ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[JavaScript](./solutions/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.js)|100 ms|
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[JavaScript](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.js)|80 ms|
