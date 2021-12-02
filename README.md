@@ -26,6 +26,7 @@
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./solutions/36.%20Valid%20SudokuJavaScript)|296 ms|
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./solutions/38.%20Count%20and%20SayJavaScript)|76 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./solutions/46.%20Permutations.js)|96 ms|
+|47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[JavaScript](./solutions/47.%20Permutations%20II.js)|316 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./solutions/48.%20Rotate%20ImageJavaScript)|56 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20AnagramsJavaScript)|116 ms|
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./solutions/50.%20Pow(x%2C%20n).js)|76 ms|
