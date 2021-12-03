@@ -168,6 +168,7 @@
 |848|[ Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[JavaScript](./solutions/848.%20Shifting%20Letters.js)|258 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[JavaScript](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.js)|72 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[JavaScript](./solutions/905.%20Sort%20Array%20By%20Parity.js)|100 ms|
+|912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[JavaScript](./solutions/912.%20Sort%20an%20Array.js)|136 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[JavaScript](./solutions/917.%20Reverse%20Only%20Letters.js)|84 ms|
 |922|[ Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[JavaScript](./solutions/922.%20Sort%20Array%20By%20Parity%20II.js)|120 ms|
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[JavaScript](./solutions/929.%20Unique%20Email%20Addresses.js)|92 ms|
