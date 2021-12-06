@@ -203,6 +203,7 @@
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[JavaScript](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20ZeroJavaScript)|76 ms|
 |1346|[ Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[JavaScript](./solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.js)|80 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[JavaScript](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.js)|114 ms|
+|1352|[ Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[JavaScript](./solutions/1352.%20Product%20of%20the%20Last%20K%20Numbers.js)|1420 ms|
 |1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[JavaScript](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.js)|104 ms|
 |1360|[ Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/)|[JavaScript](./solutions/1360.%20Number%20of%20Days%20Between%20Two%20Dates.js)|72 ms|
 |1365|[ How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[JavaScript](./solutions/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.js)|120 ms|
