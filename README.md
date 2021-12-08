@@ -212,6 +212,7 @@
 |1389|[ Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[JavaScript](./solutions/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.js)|75 ms|
 |1394|[ Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[JavaScript](./solutions/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.js)|184 ms|
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[JavaScript](./solutions/1408.%20String%20Matching%20in%20an%20Array.js)|88 ms|
+|1410|[ HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[JavaScript](./solutions/1410.%20HTML%20Entity%20Parser.js)|173 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[JavaScript](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js)|76 ms|
 |1437|[ Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[JavaScript](./solutions/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.js)|100 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[JavaScript](./solutions/1446.%20Consecutive%20Characters.js)|76 ms|
