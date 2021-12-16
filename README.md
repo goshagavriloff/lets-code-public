@@ -231,6 +231,7 @@
 |1507|[ Reformat Date](https://leetcode.com/problems/reformat-date/)|[JavaScript](./solutions/1507.%20Reformat%20Date.js)|76 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[JavaScript](./solutions/1512.%20Number%20of%20Good%20Pairs.js)|68 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[JavaScript](./solutions/1528.%20Shuffle%20String.js)|92 ms|
+|1545|[ Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[JavaScript](./solutions/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.js)|564 ms|
 |1550|[ Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[JavaScript](./solutions/1550.%20Three%20Consecutive%20Odds.js)|72 ms|
 |1556|[ Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[JavaScript](./solutions/1556.%20Thousand%20Separator.js)|76 ms|
 |1592|[ Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[JavaScript](./solutions/1592.%20Rearrange%20Spaces%20Between%20Words.js)|76 ms|
