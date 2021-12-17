@@ -176,6 +176,7 @@
 |832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[JavaScript](./solutions/832.%20Flipping%20an%20Image.js)|76 ms|
 |848|[ Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[JavaScript](./solutions/848.%20Shifting%20Letters.js)|258 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[JavaScript](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.js)|72 ms|
+|869|[ Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[JavaScript](./solutions/869.%20Reordered%20Power%20of%202.js)|103 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[JavaScript](./solutions/905.%20Sort%20Array%20By%20Parity.js)|100 ms|
 |912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[JavaScript](./solutions/912.%20Sort%20an%20Array.js)|136 ms|
 |917|[ Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[JavaScript](./solutions/917.%20Reverse%20Only%20Letters.js)|84 ms|
