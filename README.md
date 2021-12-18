@@ -149,6 +149,7 @@
 |506|[ Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[JavaScript](./solutions/506.%20Relative%20Ranks.js)|120 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[JavaScript](./solutions/509.%20Fibonacci%20Number.js)|148 ms|
 |513|[ Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[JavaScript](./solutions/513.%20Find%20Bottom%20Left%20Tree%20Value.js)|96 ms|
+|515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.js)|92 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[JavaScript](./solutions/520.%20Detect%20Capital.js)|88 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[JavaScript](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.js)|84 ms|
