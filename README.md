@@ -187,6 +187,7 @@
 |929|[ Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[JavaScript](./solutions/929.%20Unique%20Email%20Addresses.js)|92 ms|
 |941|[ Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./solutions/941.%20Valid%20Mountain%20Array.js)|92 ms|
 |949|[ Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[JavaScript](./solutions/949.%20Largest%20Time%20for%20Given%20Digits.js)|84 ms|
+|958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[JavaScript](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.js)|88 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[JavaScript](./solutions/973.%20K%20Closest%20Points%20to%20OriginJavaScript)|416 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.js)|120 ms|
 |988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[JavaScript](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.js)|116 ms|
