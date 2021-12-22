@@ -164,6 +164,7 @@
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./solutions/657.%20Robot%20Return%20to%20Origin.js)|92 ms|
 |693|[ Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[JavaScript](./solutions/693.%20Binary%20Number%20with%20Alternating%20Bits.js)|68 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.js)|112 ms|
+|701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[JavaScript](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.js)|152 ms|
 |724|[ Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./solutions/724.%20Find%20Pivot%20Index.js)|940 ms|
 |725|[ Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[JavaScript](./solutions/725.%20Split%20Linked%20List%20in%20Parts.js)|84 ms|
 |728|[ Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[JavaScript](./solutions/728.%20Self%20Dividing%20Numbers.js)|140 ms|
