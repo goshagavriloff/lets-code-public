@@ -5,20 +5,17 @@
  */
 var sumEvenAfterQueries = function(nums, queries) {
     let result=[];
-    queries.reverse();
     while (queries.length!=0){
-        let [val,i]=queries.pop();
+        let [val,i]=queries.shift();
         nums[i]+=val;
-        let temp=getSumEvenNums(nums);
-        result.push(temp);
+        result.push(getSumEvenNums(nums));
     } 
     return result;
     
 };
 let getSumEvenNums=(nums)=>{
-    let result=0;
-    nums.forEach((x)=>{
-        (x%2==0)&&(result+=x);
-    });
-    return result;
+    return nums.reduce((acc,val)=>{
+        let add=val%2==0?val:0;
+        return acc+add;
+    },0);
 }
