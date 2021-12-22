@@ -192,6 +192,7 @@
 |958|[ Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[JavaScript](./solutions/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.js)|88 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[JavaScript](./solutions/973.%20K%20Closest%20Points%20to%20OriginJavaScript)|416 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.js)|120 ms|
+|985|[ Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[JavaScript](./solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.js)|4164 ms|
 |988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[JavaScript](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.js)|116 ms|
 |993|[ Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[JavaScript](./solutions/993.%20Cousins%20in%20Binary%20TreeJavaScript)|64 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[JavaScript](./solutions/997.%20Find%20the%20Town%20JudgeJavaScript)|476 ms|
