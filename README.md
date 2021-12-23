@@ -53,6 +53,7 @@
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./solutions/100.%20Same%20Tree.js)|76 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|84 ms|
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20TreeJavaScript)|172 ms|
+|105|[ Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JavaScript](./solutions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.js)|136 ms|
 |107|[ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[JavaScript](./solutions/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.js)|127 ms|
 |109|[ Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[JavaScript](./solutions/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.js)|112 ms|
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[JavaScript](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.js)|92 ms|
