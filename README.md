@@ -201,6 +201,7 @@
 |1008|[ Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[JavaScript](./solutions/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.js)|80 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[JavaScript](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.js)|72 ms|
 |1019|[ Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[JavaScript](./solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List.js)|1236 ms|
+|1038|[ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./solutions/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.js)|64 ms|
 |1089|[ Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[JavaScript](./solutions/1089.%20Duplicate%20Zeros.js)|84 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20AddressJavaScript)|56 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[JavaScript](./solutions/1137.%20N-th%20Tribonacci%20Number.js)|72 ms|
