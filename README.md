@@ -155,6 +155,7 @@
 |513|[ Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[JavaScript](./solutions/513.%20Find%20Bottom%20Left%20Tree%20Value.js)|96 ms|
 |515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.js)|92 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[JavaScript](./solutions/520.%20Detect%20Capital.js)|88 ms|
+|538|[ Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[JavaScript](./solutions/538.%20Convert%20BST%20to%20Greater%20Tree.js)|124 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20ArrayJavaScript)|60 ms|
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[JavaScript](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.js)|84 ms|
 |561|[ Array Partition I](https://leetcode.com/problems/array-partition-i/)|[JavaScript](./solutions/561.%20Array%20Partition%20I.js)|134 ms|
