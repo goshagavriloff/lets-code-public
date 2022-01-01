@@ -180,6 +180,7 @@
 |747|[ Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[JavaScript](./solutions/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.js)|76 ms|
 |766|[ Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[JavaScript](./solutions/766.%20Toeplitz%20Matrix.js)|97 ms|
 |771|[ Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](./solutions/771.%20Jewels%20and%20StonesJavaScript)|60 ms|
+|788|[ Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[JavaScript](./solutions/788.%20Rotated%20Digits.js)|112 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[JavaScript](./solutions/791.%20Custom%20Sort%20String.js)|76 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[JavaScript](./solutions/796.%20Rotate%20String.js)|76 ms|
 |819|[ Most Common Word](https://leetcode.com/problems/most-common-word/)|[JavaScript](./solutions/819.%20Most%20Common%20Word.js)|166 ms|
