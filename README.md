@@ -90,6 +90,7 @@
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./solutions/189.%20Rotate%20ArrayJavaScript)|96 ms|
 |190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[JavaScript](./solutions/190.%20Reverse%20Bits.js)|100 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](./solutions/191.%20Number%20of%201%20Bits.js)|88 ms|
+|196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|626 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[JavaScript](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.js)|72 ms|
 |201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[JavaScript](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.js)|208 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./solutions/202.%20Happy%20NumberJavaScript)|84 ms|
