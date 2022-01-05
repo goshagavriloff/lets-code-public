@@ -243,6 +243,7 @@
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[JavaScript](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.js)|76 ms|
 |1437|[ Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[JavaScript](./solutions/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.js)|100 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[JavaScript](./solutions/1446.%20Consecutive%20Characters.js)|76 ms|
+|1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[JavaScript](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.js)|444 ms|
 |1450|[ Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[JavaScript](./solutions/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.js)|68 ms|
 |1451|[ Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[JavaScript](./solutions/1451.%20Rearrange%20Words%20in%20a%20Sentence.js)|80 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[JavaScript](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20ArrayJavaScript)|72 ms|
