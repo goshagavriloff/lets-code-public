@@ -131,6 +131,7 @@
 |371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[JavaScript](./solutions/371.%20Sum%20of%20Two%20Integers.js)|64 ms|
 |374|[ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[JavaScript](./solutions/374.%20Guess%20Number%20Higher%20or%20Lower.js)|76 ms|
 |378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[JavaScript](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.js)|112 ms|
+|382|[ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[JavaScript](./solutions/382.%20Linked%20List%20Random%20Node.js)|120 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./solutions/383.%20Ransom%20NoteJavaScript)|2692 ms|
 |386|[ Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[JavaScript](./solutions/386.%20Lexicographical%20Numbers.js)|249 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./solutions/387.%20First%20Unique%20Character%20in%20a%20StringJavaScript)|216 ms|
