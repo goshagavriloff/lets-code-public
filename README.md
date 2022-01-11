@@ -174,6 +174,7 @@
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|289 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./solutions/620.%20Not%20Boring%20Movies.mysql)|308 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|216 ms|
+|633|[ Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[JavaScript](./solutions/633.%20Sum%20of%20Square%20Numbers.js)|108 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](./solutions/645.%20Set%20Mismatch.js)|2452 ms|
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./solutions/657.%20Robot%20Return%20to%20Origin.js)|92 ms|
 |692|[ Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[JavaScript](./solutions/692.%20Top%20K%20Frequent%20Words.js)|151 ms|
