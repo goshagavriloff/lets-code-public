@@ -96,6 +96,7 @@
 |201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[JavaScript](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.js)|208 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./solutions/202.%20Happy%20NumberJavaScript)|84 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|174 ms|
+|204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[JavaScript](./solutions/204.%20Count%20Primes.js)|1008 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20ListJavaScript)|72 ms|
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[JavaScript](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.js)|146 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20DuplicateJavaScript)|108 ms|
