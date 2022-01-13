@@ -88,6 +88,7 @@
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql)|928 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./solutions/182.%20Duplicate%20Emails.mysql)|530 ms|
 |183|[ Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MySQL](./solutions/183.%20Customers%20Who%20Never%20Order.mysql)|622 ms|
+|184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MySQL](./solutions/184.%20Department%20Highest%20Salary.mysql)|1194 ms|
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./solutions/189.%20Rotate%20ArrayJavaScript)|96 ms|
 |190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[JavaScript](./solutions/190.%20Reverse%20Bits.js)|100 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[JavaScript](./solutions/191.%20Number%20of%201%20Bits.js)|88 ms|
