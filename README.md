@@ -103,6 +103,7 @@
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[JavaScript](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.js)|146 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20DuplicateJavaScript)|108 ms|
 |219|[ Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](./solutions/219.%20Contains%20Duplicate%20II.js)|3260 ms|
+|220|[ Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[JavaScript](./solutions/220.%20Contains%20Duplicate%20III.js)|4143 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[JavaScript](./solutions/222.%20Count%20Complete%20Tree%20Nodes.js)|147 ms|
 |224|[ Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[JavaScript](./solutions/224.%20Basic%20Calculator.js)|360 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./solutions/226.%20Invert%20Binary%20Tree.js)|99 ms|
