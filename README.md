@@ -177,6 +177,7 @@
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[JavaScript](./solutions/566.%20Reshape%20the%20Matrix.js)|148 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|289 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./solutions/620.%20Not%20Boring%20Movies.mysql)|308 ms|
+|626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|248 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|216 ms|
 |633|[ Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[JavaScript](./solutions/633.%20Sum%20of%20Square%20Numbers.js)|108 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](./solutions/645.%20Set%20Mismatch.js)|2452 ms|
