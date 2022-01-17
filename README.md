@@ -202,6 +202,7 @@
 |830|[ Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[JavaScript](./solutions/830.%20Positions%20of%20Large%20Groups.js)|137 ms|
 |832|[ Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[JavaScript](./solutions/832.%20Flipping%20an%20Image.js)|76 ms|
 |848|[ Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[JavaScript](./solutions/848.%20Shifting%20Letters.js)|258 ms|
+|849|[ Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[JavaScript](./solutions/849.%20Maximize%20Distance%20to%20Closest%20Person.js)|80 ms|
 |852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[JavaScript](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.js)|72 ms|
 |869|[ Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[JavaScript](./solutions/869.%20Reordered%20Power%20of%202.js)|103 ms|
 |905|[ Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[JavaScript](./solutions/905.%20Sort%20Array%20By%20Parity.js)|100 ms|
