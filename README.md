@@ -182,6 +182,7 @@
 |633|[ Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[JavaScript](./solutions/633.%20Sum%20of%20Square%20Numbers.js)|108 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](./solutions/645.%20Set%20Mismatch.js)|2452 ms|
 |657|[ Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[JavaScript](./solutions/657.%20Robot%20Return%20to%20Origin.js)|92 ms|
+|677|[ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[JavaScript](./solutions/677.%20Map%20Sum%20Pairs.js)|123 ms|
 |692|[ Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[JavaScript](./solutions/692.%20Top%20K%20Frequent%20Words.js)|151 ms|
 |693|[ Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[JavaScript](./solutions/693.%20Binary%20Number%20with%20Alternating%20Bits.js)|68 ms|
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.js)|112 ms|
