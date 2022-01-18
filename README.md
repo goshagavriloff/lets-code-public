@@ -50,6 +50,7 @@
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./solutions/88.%20Merge%20Sorted%20ArrayJavaScript)|68 ms|
 |89|[ Gray Code](https://leetcode.com/problems/gray-code/)|[JavaScript](./solutions/89.%20Gray%20Code.js)|264 ms|
 |92|[ Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JavaScript](./solutions/92.%20Reverse%20Linked%20List%20II.js)|80 ms|
+|93|[ Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[JavaScript](./solutions/93.%20Restore%20IP%20Addresses.js)|143 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./solutions/98.%20Validate%20Binary%20Search%20Tree.js)|148 ms|
 |100|[ Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./solutions/100.%20Same%20Tree.js)|76 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|84 ms|
