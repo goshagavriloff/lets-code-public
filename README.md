@@ -145,6 +145,7 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./solutions/387.%20First%20Unique%20Character%20in%20a%20StringJavaScript)|216 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./solutions/392.%20Is%20SubsequenceJavaScript)|68 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[JavaScript](./solutions/394.%20Decode%20String.js)|64 ms|
+|397|[ Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[JavaScript](./solutions/397.%20Integer%20Replacement.js)|396 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JavaScript](./solutions/404.%20Sum%20of%20Left%20Leaves.js)|88 ms|
 |414|[ Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JavaScript](./solutions/414.%20Third%20Maximum%20Number.js)|123 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[JavaScript](./solutions/415.%20Add%20Strings.js)|822 ms|
