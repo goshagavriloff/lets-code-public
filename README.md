@@ -264,6 +264,7 @@
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[JavaScript](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.js)|444 ms|
 |1450|[ Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[JavaScript](./solutions/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.js)|68 ms|
 |1451|[ Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)|[JavaScript](./solutions/1451.%20Rearrange%20Words%20in%20a%20Sentence.js)|80 ms|
+|1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[JavaScript](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.js)|7568 ms|
 |1464|[ Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[JavaScript](./solutions/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20ArrayJavaScript)|72 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[JavaScript](./solutions/1470.%20Shuffle%20the%20Array.js)|190 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./solutions/1480.%20Running%20Sum%20of%201d%20Array.js)|96 ms|
