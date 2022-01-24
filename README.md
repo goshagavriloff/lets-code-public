@@ -164,6 +164,7 @@
 |477|[ Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[JavaScript](./solutions/477.%20Total%20Hamming%20Distance.js)|9100 ms|
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[JavaScript](./solutions/482.%20License%20Key%20Formatting.js)|92 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./solutions/485.%20Max%20Consecutive%20Ones.js)|80 ms|
+|494|[ Target Sum](https://leetcode.com/problems/target-sum/)|[JavaScript](./solutions/494.%20Target%20Sum.js)|4036 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[JavaScript](./solutions/496.%20Next%20Greater%20Element%20I.js)|84 ms|
 |498|[ Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[JavaScript](./solutions/498.%20Diagonal%20Traverse.js)|352 ms|
 |500|[ Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JavaScript](./solutions/500.%20Keyboard%20Row.js)|80 ms|
