@@ -89,6 +89,7 @@
 |173|[ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[JavaScript](./solutions/173.%20Binary%20Search%20Tree%20Iterator.js)|132 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./solutions/175.%20Combine%20Two%20Tables.mysql)|386 ms|
 |176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](./solutions/176.%20Second%20Highest%20Salary.mysql)|170 ms|
+|177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[MySQL](./solutions/177.%20Nth%20Highest%20Salary.mysql)|267 ms|
 |180|[ Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[MySQL](./solutions/180.%20Consecutive%20Numbers.mysql)|592 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql)|928 ms|
 |182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./solutions/182.%20Duplicate%20Emails.mysql)|530 ms|
