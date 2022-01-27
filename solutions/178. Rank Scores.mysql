@@ -1,0 +1,14 @@
+# Write your MySQL query statement below
+SELECT scores.score, `A`.`rank` 
+from 
+scores 
+INNER JOIN
+(SELECT 
+score ,
+ROW_NUMBER() OVER (order BY score DESC) AS `rank`
+FROM SCORES 
+GROUP BY SCORE
+ORDER BY score DESC) as `A`
+ON scores.score=`A`.score
+ORDER BY `A`.`rank` 
+;
