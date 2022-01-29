@@ -106,6 +106,7 @@
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./solutions/203.%20Remove%20Linked%20List%20Elements.js)|174 ms|
 |204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[JavaScript](./solutions/204.%20Count%20Primes.js)|1008 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20ListJavaScript)|72 ms|
+|208|[ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[JavaScript](./solutions/208.%20Implement%20Trie%20(Prefix%20Tree).js)|204 ms|
 |211|[ Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[JavaScript](./solutions/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.js)|337 ms|
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[JavaScript](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.js)|146 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./solutions/217.%20Contains%20DuplicateJavaScript)|108 ms|
