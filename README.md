@@ -164,6 +164,7 @@
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](./solutions/451.%20Sort%20Characters%20By%20FrequencyJavaScript)|104 ms|
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JavaScript](./solutions/459.%20Repeated%20Substring%20Pattern.js)|92 ms|
 |468|[ Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[JavaScript](./solutions/468.%20Validate%20IP%20AddressJavaScript)|64 ms|
+|470|[ Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[JavaScript](./solutions/470.%20Implement%20Rand10()%20Using%20Rand7().js)|199 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](./solutions/476.%20Number%20ComplementJavaScript)|56 ms|
 |477|[ Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[JavaScript](./solutions/477.%20Total%20Hamming%20Distance.js)|9100 ms|
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[JavaScript](./solutions/482.%20License%20Key%20Formatting.js)|92 ms|
