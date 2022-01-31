@@ -64,6 +64,7 @@
 |109|[ Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[JavaScript](./solutions/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.js)|112 ms|
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[JavaScript](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.js)|92 ms|
 |112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./solutions/112.%20Path%20Sum.js)|88 ms|
+|113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[JavaScript](./solutions/113.%20Path%20Sum%20II.js)|136 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[JavaScript](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.js)|135 ms|
 |118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./solutions/118.%20Pascal's%20Triangle.js)|64 ms|
 |119|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[JavaScript](./solutions/119.%20Pascal's%20Triangle%20II.js)|72 ms|
