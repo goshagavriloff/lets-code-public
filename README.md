@@ -295,6 +295,7 @@
 |1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[JavaScript](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.js)|72 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[JavaScript](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.js)|624 ms|
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[JavaScript](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.js)|96 ms|
+|1780|[ Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[JavaScript](./solutions/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.js)|88 ms|
 |1796|[ Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[JavaScript](./solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.js)|118 ms|
 |1805|[ Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[JavaScript](./solutions/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js)|119 ms|
 |1844|[ Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[JavaScript](./solutions/1844.%20Replace%20All%20Digits%20with%20Characters.js)|111 ms|
