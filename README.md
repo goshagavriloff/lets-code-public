@@ -158,6 +158,7 @@
 |421|[ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[JavaScript](./solutions/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.js)|1856 ms|
 |429|[ N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[JavaScript](./solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal.js)|104 ms|
 |434|[ Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JavaScript](./solutions/434.%20Number%20of%20Segments%20in%20a%20StringJavaScript)|72 ms|
+|438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[JavaScript](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.js)|3598 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[JavaScript](./solutions/441.%20Arranging%20Coins.js)|147 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.js)|463 ms|
 |445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[JavaScript](./solutions/445.%20Add%20Two%20Numbers%20II.js)|132 ms|
