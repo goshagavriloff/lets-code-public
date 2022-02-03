@@ -189,6 +189,7 @@
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[JavaScript](./solutions/560.%20Subarray%20Sum%20Equals%20K.js)|135 ms|
 |561|[ Array Partition I](https://leetcode.com/problems/array-partition-i/)|[JavaScript](./solutions/561.%20Array%20Partition%20I.js)|134 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[JavaScript](./solutions/566.%20Reshape%20the%20Matrix.js)|148 ms|
+|567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[JavaScript](./solutions/567.%20Permutation%20in%20String.js)|985 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|289 ms|
 |620|[ Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](./solutions/620.%20Not%20Boring%20Movies.mysql)|308 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|248 ms|
