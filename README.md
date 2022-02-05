@@ -16,6 +16,7 @@
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20ListJavaScript)|60 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./solutions/20.%20Valid%20Parentheses.js)|112 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./solutions/21.%20Merge%20Two%20Sorted%20ListsJavaScript)|76 ms|
+|23|[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[JavaScript](./solutions/23.%20Merge%20k%20Sorted%20Lists.js)|80 ms|
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./solutions/24.%20Swap%20Nodes%20in%20Pairs.js)|137 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20ArrayJavaScript)|88 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./solutions/27.%20Remove%20Element.js)|84 ms|
