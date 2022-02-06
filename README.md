@@ -245,6 +245,7 @@
 |1089|[ Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[JavaScript](./solutions/1089.%20Duplicate%20Zeros.js)|84 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[JavaScript](./solutions/1108.%20Defanging%20an%20IP%20AddressJavaScript)|56 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[JavaScript](./solutions/1137.%20N-th%20Tribonacci%20Number.js)|72 ms|
+|1146|[ Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[JavaScript](./solutions/1146.%20Snapshot%20Array.js)|510 ms|
 |1154|[ Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[JavaScript](./solutions/1154.%20Day%20of%20the%20Year.js)|216 ms|
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[JavaScript](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.js)|204 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|441 ms|
