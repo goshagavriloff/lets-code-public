@@ -319,3 +319,4 @@
 |2011|[ Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[JavaScript](./solutions/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations.js)|104 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[JavaScript](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.js)|1068 ms|
 |2109|[ Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)|[JavaScript](./solutions/2109.%20Adding%20Spaces%20to%20a%20String.js)|216 ms|
+|2181|[ Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|[JavaScript](./solutions/2181.%20Merge%20Nodes%20in%20Between%20Zeros.js)|1184 ms|
