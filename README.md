@@ -252,6 +252,7 @@
 |1161|[ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[JavaScript](./solutions/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.js)|204 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|441 ms|
 |1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[JavaScript](./solutions/1189.%20Maximum%20Number%20of%20BalloonsJavaScript)|68 ms|
+|1227|[ Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[JavaScript](./solutions/1227.%20Airplane%20Seat%20Assignment%20Probability.js)|66 ms|
 |1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[JavaScript](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20LineJavaScript)|56 ms|
 |1233|[ Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[JavaScript](./solutions/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.js)|1108 ms|
 |1286|[ Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[JavaScript](./solutions/1286.%20Iterator%20for%20Combination.js)|96 ms|
