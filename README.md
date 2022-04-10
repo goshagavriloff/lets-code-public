@@ -253,6 +253,7 @@
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|441 ms|
 |1189|[ Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[JavaScript](./solutions/1189.%20Maximum%20Number%20of%20BalloonsJavaScript)|68 ms|
 |1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[JavaScript](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20LineJavaScript)|56 ms|
+|1233|[ Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)|[JavaScript](./solutions/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.js)|1108 ms|
 |1286|[ Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[JavaScript](./solutions/1286.%20Iterator%20for%20Combination.js)|96 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[JavaScript](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20IntegerJavaScript)|68 ms|
 |1291|[ Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[JavaScript](./solutions/1291.%20Sequential%20Digits.js)|140 ms|
