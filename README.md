@@ -6,6 +6,7 @@
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./solutions/2.%20Add%20Two%20Numbers.js)|140 ms|
 |3|[ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.js)|169 ms|
 |4|[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.js)|116 ms|
+|5|[ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[JavaScript](./solutions/5.%20Longest%20Palindromic%20Substring.js)|180 ms|
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./solutions/7.%20Reverse%20IntegerJavaScript)|76 ms|
 |8|[ String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[JavaScript](./solutions/8.%20String%20to%20Integer%20(atoi)JavaScript)|80 ms|
 |11|[ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./solutions/11.%20Container%20With%20Most%20Water.js)|580 ms|
