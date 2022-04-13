@@ -309,6 +309,7 @@
 |1780|[ Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[JavaScript](./solutions/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.js)|88 ms|
 |1796|[ Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[JavaScript](./solutions/1796.%20Second%20Largest%20Digit%20in%20a%20String.js)|118 ms|
 |1805|[ Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[JavaScript](./solutions/1805.%20Number%20of%20Different%20Integers%20in%20a%20String.js)|119 ms|
+|1814|[ Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)|[JavaScript](./solutions/1814.%20Count%20Nice%20Pairs%20in%20an%20Array.js)|103 ms|
 |1844|[ Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[JavaScript](./solutions/1844.%20Replace%20All%20Digits%20with%20Characters.js)|111 ms|
 |1859|[ Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[JavaScript](./solutions/1859.%20Sorting%20the%20Sentence.js)|108 ms|
 |1880|[ Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[JavaScript](./solutions/1880.%20Check%20if%20Word%20Equals%20Summation%20of%20Two%20Words.js)|103 ms|
