@@ -219,6 +219,7 @@
 |788|[ Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[JavaScript](./solutions/788.%20Rotated%20Digits.js)|112 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[JavaScript](./solutions/791.%20Custom%20Sort%20String.js)|76 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[JavaScript](./solutions/796.%20Rotate%20String.js)|76 ms|
+|797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[JavaScript](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.js)|121 ms|
 |819|[ Most Common Word](https://leetcode.com/problems/most-common-word/)|[JavaScript](./solutions/819.%20Most%20Common%20Word.js)|166 ms|
 |824|[ Goat Latin](https://leetcode.com/problems/goat-latin/)|[JavaScript](./solutions/824.%20Goat%20Latin.js)|76 ms|
 |830|[ Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[JavaScript](./solutions/830.%20Positions%20of%20Large%20Groups.js)|137 ms|
